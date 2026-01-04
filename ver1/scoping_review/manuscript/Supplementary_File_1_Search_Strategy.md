@@ -4,7 +4,7 @@
 
 ### Database: PubMed
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 ("psychological flexibility"[Title/Abstract] OR "acceptance and commitment therapy"[Title/Abstract] OR "ACT therapy"[Title/Abstract] OR "experiential avoidance"[Title/Abstract] OR "cognitive defusion"[Title/Abstract] OR "acceptance-based"[Title/Abstract])
@@ -12,19 +12,19 @@ AND
 ("fMRI"[Title/Abstract] OR "functional MRI"[Title/Abstract] OR "functional magnetic resonance"[Title/Abstract] OR "neuroimaging"[Title/Abstract] OR "neural correlates"[Title/Abstract] OR "brain activation"[Title/Abstract] OR "brain function"[Title/Abstract] OR "BOLD"[Title/Abstract])
 ```
 
-Records identified: 31
+Records identified: [X]
 
 ### Database: Google Scholar
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 ("psychological flexibility" OR "acceptance and commitment therapy") AND ("fMRI" OR "functional MRI" OR "neuroimaging" OR "neural correlates")
 ```
 
-Additional records identified: 16
+Additional records identified: [X]
 
-**Total records after deduplication: 47**
+**Total records after deduplication: [X]**
 
 ---
 
@@ -32,7 +32,7 @@ Additional records identified: 16
 
 ### Database: PubMed/MEDLINE
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 ("schizophrenia"[MeSH Terms] OR "schizophrenia"[Title/Abstract] OR "schizoaffective"[Title/Abstract] OR "schizophreniform"[Title/Abstract] OR "psychosis"[Title/Abstract] OR "psychotic disorder"[Title/Abstract])
@@ -42,11 +42,11 @@ AND
 ("magnetic resonance imaging"[MeSH Terms] OR "MRI"[Title/Abstract] OR "structural MRI"[Title/Abstract] OR "sMRI"[Title/Abstract] OR "gray matter"[Title/Abstract] OR "grey matter"[Title/Abstract] OR "cortical thickness"[Title/Abstract] OR "voxel-based morphometry"[Title/Abstract] OR "VBM"[Title/Abstract] OR "FreeSurfer"[Title/Abstract] OR "brain volume"[Title/Abstract] OR "brain structure"[Title/Abstract])
 ```
 
-Records identified: 67
+Records identified: [X]
 
 ### Database: PsycINFO
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 (DE "Schizophrenia" OR TI schizophrenia OR AB schizophrenia OR TI schizoaffective OR AB schizoaffective)
@@ -56,11 +56,11 @@ AND
 (TI "MRI" OR AB "MRI" OR TI "magnetic resonance" OR AB "magnetic resonance" OR TI "gray matter" OR AB "gray matter" OR TI "cortical thickness" OR AB "cortical thickness" OR TI "brain structure" OR AB "brain structure")
 ```
 
-Records identified: 34
+Records identified: [X]
 
 ### Database: Embase
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 ('schizophrenia'/exp OR schizophrenia:ti,ab OR schizoaffective:ti,ab)
@@ -70,11 +70,11 @@ AND
 ('nuclear magnetic resonance imaging'/exp OR 'MRI':ti,ab OR 'gray matter':ti,ab OR 'cortical thickness':ti,ab OR 'voxel based morphometry':ti,ab OR 'brain volume':ti,ab)
 ```
 
-Records identified: 41
+Records identified: [X]
 
 ### Database: Web of Science
 
-Search conducted: January 2026
+Search conducted: [DATE]
 
 ```
 TS=(schizophrenia OR schizoaffective OR schizophreniform)
@@ -84,17 +84,17 @@ AND
 TS=(MRI OR "magnetic resonance" OR "gray matter" OR "grey matter" OR "cortical thickness" OR "voxel-based morphometry" OR VBM OR FreeSurfer OR "brain structure")
 ```
 
-Records identified: 14
+Records identified: [X]
 
 ### Supplementary Sources
 
-Reference lists of included studies: 5 additional records
+Reference lists of included studies: [X] additional records
 
-Koster et al. (2025) systematic review: 3 additional records
+Koster et al. (2025) systematic review: [X] additional records
 
-**Total records identified: 164**
+**Total records identified: [X]**
 
-**Records after deduplication: 89**
+**Records after deduplication: [X]**
 
 ---
 
@@ -104,23 +104,27 @@ Koster et al. (2025) systematic review: 3 additional records
 
 | Stage | Records |
 |-------|---------|
-| Records identified | 47 |
-| Title/abstract screening | 47 |
-| Full-text assessed | 12 |
+| Records identified | [X] |
+| Title/abstract screening | [X] |
+| Full-text assessed | [X] |
 | Studies included | 4 |
 
 ### sMRI Literature
 
 | Stage | Records |
 |-------|---------|
-| Records identified (databases) | 156 |
-| Records identified (other sources) | 8 |
-| Duplicates removed | 75 |
-| Title/abstract screening | 89 |
-| Full-text assessed | 13 |
+| Records identified (databases) | [X] |
+| Records identified (other sources) | [X] |
+| Duplicates removed | [X] |
+| Title/abstract screening | [X] |
+| Full-text assessed | [X] |
 | Studies excluded | 5 |
 | Studies included | 8 |
 
 **Reasons for exclusion (sMRI literature):**
 - Diffusion tensor imaging only (n = 2): Zhang et al., 2010; Cullen et al., 2012
 - Clinical high-risk population (n = 3): Welch et al., 2010; Stone et al., 2012; Koster et al., 2025b
+
+---
+
+*Note: [X] and [DATE] placeholders to be completed after conducting actual database searches.*

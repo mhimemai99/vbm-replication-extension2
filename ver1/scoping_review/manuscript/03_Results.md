@@ -2,9 +2,9 @@
 
 ## Study Selection
 
-For the fMRI literature, database searching of PubMed and Google Scholar identified 47 records. After title/abstract screening, 12 full-text articles were assessed for eligibility. Four studies met inclusion criteria examining neural correlates of psychological flexibility or ACT interventions.
+For the fMRI literature, database searching of PubMed and Google Scholar identified [X] records. After title/abstract screening, [X] full-text articles were assessed for eligibility. Four studies met inclusion criteria examining neural correlates of psychological flexibility or ACT interventions.
 
-For the sMRI literature, 156 records were identified through database searching (PubMed, PsycINFO, Embase, Web of Science). An additional 8 studies were identified from reference lists and the Koster et al. (2025) systematic review. After removing duplicates, 89 unique records were screened. Thirteen full-text articles were assessed for eligibility, and eight studies met inclusion criteria. Five studies were excluded: two used diffusion tensor imaging only (Zhang et al., 2010; Cullen et al., 2012), and three examined clinical high-risk rather than diagnosed schizophrenia populations (Welch et al., 2010; Stone et al., 2012; Koster et al., 2025b).
+For the sMRI literature, [X] records were identified through database searching (PubMed, PsycINFO, Embase, Web of Science). An additional [X] studies were identified from reference lists and the Koster et al. (2025) systematic review. After removing duplicates, [X] unique records were screened. [X] full-text articles were assessed for eligibility, and eight studies met inclusion criteria. Five studies were excluded: two used diffusion tensor imaging only (Zhang et al., 2010; Cullen et al., 2012), and three examined clinical high-risk rather than diagnosed schizophrenia populations (Welch et al., 2010; Stone et al., 2012; Koster et al., 2025b).
 
 ## fMRI Studies on Psychological Flexibility
 
