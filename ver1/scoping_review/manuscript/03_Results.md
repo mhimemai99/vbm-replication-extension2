@@ -21,7 +21,7 @@ Database searching identified 4 fMRI studies examining neural correlates of psyc
 | Smallwood et al. (2016) | Opioid addiction + chronic pain | 25 | RCT: 8-week ACT vs. HEC | ACT intervention | ACC, insula, PCC, MFG, IPL, STG |
 | Aytur et al. (2021) | Chronic pain (women) | 9 | Pre-post ACT (4 weeks) | AAQ-II, CPAQ | DMN, SN, FPN |
 | Lee et al. (2023) | OCD | 42 | RCT: 8-week ACT vs. waitlist | AAQ-OC, CFQ | Insula, STG, IFG, PCC, precuneus |
-| 2025 DMN-DAN study | Healthy adults | 42 | Cross-sectional | AAQ-II | DMN, DAN (164 ROIs) |
+| Cho et al. (2025) | Healthy adults | 42 | Cross-sectional | AAQ-II | DMN, DAN (164 ROIs) |
 
 **Total N across studies: 118**
 
@@ -33,11 +33,11 @@ Database searching identified 4 fMRI studies examining neural correlates of psyc
 
 **Anterior Cingulate Cortex (ACC)**: Two studies (Smallwood 2016; Aytur 2021) identified ACC. Smallwood found decreased ACC activation post-ACT; Aytur found connectivity changes involving ACC correlated with AAQ-II improvement. The ACC is critical for conflict monitoring and cognitive control.
 
-**Posterior Cingulate Cortex (PCC) / Precuneus**: Three studies (Smallwood 2016; Lee 2023; 2025 study) implicated PCC or related DMN structures. Lee found right PCC connectivity correlated with AAQ-OC improvement (rho = −0.488, p = 0.001). These regions are involved in self-referential processing and are core DMN hubs.
+**Posterior Cingulate Cortex (PCC) / Precuneus**: Three studies (Smallwood 2016; Lee 2023; Cho 2025) implicated PCC or related DMN structures. Lee found right PCC connectivity correlated with AAQ-OC improvement (rho = −0.488, p = 0.001). These regions are involved in self-referential processing and are core DMN hubs.
 
 **Prefrontal Cortex (MFG, IFG)**: Two studies (Smallwood 2016; Lee 2023) reported prefrontal changes. Smallwood found decreased MFG activation; Lee found strengthened insula-IFG connectivity post-ACT.
 
-**Network-Level Findings**: Two studies (Aytur 2021; 2025 study) examined network connectivity. Aytur found reduced connectivity within DMN, salience, and frontoparietal networks post-ACT. The 2025 study found greater psychological flexibility (lower AAQ-II) associated with stronger DMN-DAN anticorrelation, suggesting clearer differentiation between internally-directed and externally-directed brain states.
+**Network-Level Findings**: Two studies (Aytur 2021; Cho 2025) examined network connectivity. Aytur found reduced connectivity within DMN, salience, and frontoparietal networks post-ACT. Cho et al. found greater psychological flexibility (lower AAQ-II) associated with stronger DMN-DAN anticorrelation, suggesting clearer differentiation between internally-directed and externally-directed brain states.
 
 ### Gap Finding: fMRI Literature
 
@@ -122,7 +122,7 @@ Koster et al. (2025) included 6 gray matter studies. Our review adds Qiu (2024) 
 | **ACC** | Smallwood 2016; Aytur 2021 | Jørgensen 2015; Qiu 2024 | **YES** |
 | **Insula** | Smallwood 2016; Lee 2023 | Jørgensen 2015; Qiu 2024 | **YES** |
 | **PFC** | Smallwood 2016; Lee 2023 | Schneider 2014; Yokoyama 2018 | **YES** |
-| **PCC/DMN** | Smallwood 2016; Lee 2023; 2025 study | — | Partial |
+| **PCC/DMN** | Smallwood 2016; Lee 2023; Cho 2025 | — | Partial |
 | **Hippocampus** | — | Schneider 2014; Qiu 2024; Musket 2026 | — |
 
 The key finding: **ACC, insula, and prefrontal cortex** appear in both literatures. These regions are:
@@ -153,6 +153,6 @@ This convergence provides anatomical grounding for investigating psychological f
 
 3. Lee SW et al. (2023). Neural mechanisms of ACT for OCD. *Psychol Med*. https://pubmed.ncbi.nlm.nih.gov/37427558/
 
-4. 2025 DMN-DAN study. Functional connectivity correlates of psychological flexibility. *J Contextual Behav Sci*. https://www.sciencedirect.com/science/article/abs/pii/S2212144725000316
+4. Cho S-E et al. (2025). Functional connectivity correlates of psychological flexibility. *J Contextual Behav Sci*, 36:100900. https://doi.org/10.1016/j.jcbs.2025.100900
 
 5. Koster M et al. (2025). Tobacco smoking and brain alterations in schizophrenia. *Schizophr Bull*, 51(3):608-624. https://pubmed.ncbi.nlm.nih.gov/38824451/

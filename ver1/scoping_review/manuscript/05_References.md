@@ -54,4 +54,4 @@ Yokoyama, N., Sasaki, H., Mori, Y., Ono, M., Tsurumi, K., Kawada, R., ... & Taka
 
 Zhang, X., Stein, E. A., & Hong, L. E. (2010). Smoking and schizophrenia independently and additively reduce white matter integrity between striatum and frontal cortex. *Biological Psychiatry*, *68*(7), 674–677. https://doi.org/10.1016/j.biopsych.2010.06.018
 
-[2025 DMN-DAN study]. (2025). Functional connectivity correlates of psychological flexibility: A resting-state fMRI study of the default mode and dorsal attention networks. *Journal of Contextual Behavioral Science*. https://doi.org/10.1016/j.jcbs.2025.100xxx
+Cho, S.-E., Jung, J.-Y., Kang, C.-K., & Na, K.-S. (2025). Functional connectivity correlates of psychological flexibility: A resting-state fMRI study of the default mode and dorsal attention networks. *Journal of Contextual Behavioral Science*, *36*, 100900. https://doi.org/10.1016/j.jcbs.2025.100900

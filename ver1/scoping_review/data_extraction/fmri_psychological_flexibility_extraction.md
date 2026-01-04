@@ -69,12 +69,12 @@
 
 ---
 
-## Study 4: 2025 DMN-DAN Study
+## Study 4: Cho et al. (2025)
 
 | Field | Data |
 |-------|------|
-| **Citation** | [Authors TBD] (2025). Functional connectivity correlates of psychological flexibility: A resting-state fMRI study of the default mode and dorsal attention networks. *Journal of Contextual Behavioral Science*. Published May 5, 2025. |
-| **Link** | https://www.sciencedirect.com/science/article/abs/pii/S2212144725000316 |
+| **Citation** | Cho S-E, Jung J-Y, Kang C-K, Na K-S (2025). Functional connectivity correlates of psychological flexibility: A resting-state fMRI study of the default mode and dorsal attention networks. *Journal of Contextual Behavioral Science*, 36, 100900. |
+| **DOI** | https://doi.org/10.1016/j.jcbs.2025.100900 |
 | **Population** | Healthy adults, ages 19-65, right-handed only |
 | **Sample size** | N = 42 |
 | **Design** | Cross-sectional, correlational |
