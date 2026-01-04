@@ -78,6 +78,35 @@ A study combining structural MRI, validated measures of psychological flexibilit
 
 4. **Multimodal imaging**: Combining structural MRI with functional connectivity measures could better characterize the relationship between gray matter differences and network-level function.
 
+## Relationship to Prior Reviews: The Koster et al. Contributions
+
+Two recent publications by Koster and colleagues provide important context for situating our findings within the broader literature.
+
+### Comparison with Koster et al. (2025a) Systematic Review
+
+Koster et al. (2025a) published a comprehensive systematic review in *Schizophrenia Bulletin* examining tobacco smoking and brain alterations in schizophrenia across both structural and functional MRI modalities. Their review included 8 structural and 14 functional studies, concluding that "structural studies show widespread independent and additive reductions in gray matter in relation to smoking and SSD."
+
+Our scoping review converges with their structural findings but extends beyond their work in several important ways. First, by explicitly excluding DTI and focusing solely on T1-weighted gray matter morphometry, we provide a more homogeneous synthesis of structural findings. Second, our systematic assessment of psychological flexibility measures across all included studies—confirming this as an unexplored domain—represents a novel contribution not addressed by Koster et al. Third, our prioritization of within-diagnosis smoking comparisons (SZ-Smokers vs. SZ-Non-smokers) and explicit extraction of symptom severity correlations provides a more clinically-oriented synthesis focused on mechanisms within schizophrenia rather than general smoking effects.
+
+The convergence between our independent reviews on the core structural findings—gray matter reductions in prefrontal, cingulate, insular, and hippocampal regions—strengthens confidence in these conclusions.
+
+### The CHR-Diagnosed Schizophrenia Contrast
+
+Koster et al. (2025b) examined smoking and gray matter volume in 542 clinical high-risk (CHR) individuals from the NAPLS-3 cohort, finding no cross-sectional or longitudinal associations over 8 months. This null finding in CHR stands in stark contrast to the consistent positive findings in diagnosed schizophrenia documented in our review.
+
+This stage-specific pattern has important theoretical and clinical implications:
+
+**Theoretical implications**: The absence of smoking-related structural differences in CHR, despite their presence in diagnosed schizophrenia, suggests that these changes may:
+- Require longer cumulative smoking exposure to manifest
+- Emerge as a consequence of the disease-smoking interaction over time
+- Reflect synergistic effects of smoking with illness progression, medication, or other factors present only after diagnosis
+
+**Clinical implications**: If smoking-related brain changes are not yet detectable in CHR, this represents a potential window for prevention. Early smoking cessation interventions in CHR individuals might prevent the structural alterations that become apparent after illness onset. This aligns with calls for targeted smoking prevention in psychosis prodrome.
+
+**Methodological considerations**: Koster et al. (2025b) noted that their CHR sample had relatively low smoking frequency and intensity, which may have limited power to detect effects. Heavier smoking in diagnosed schizophrenia populations (often >20 cigarettes/day) may be necessary for structural effects to emerge.
+
+This comparison across illness stages—from CHR (no effect) to diagnosed schizophrenia (consistent effects)—suggests that the smoking-brain relationship in psychosis may be state-dependent, with structural manifestations emerging at or after the transition to full illness.
+
 ## Limitations
 
 This scoping review has several limitations.
@@ -106,6 +135,10 @@ The complete absence of psychological flexibility measures across all included s
 
 5. Glahn DC, Laird AR, Ellison-Wright I, et al. (2008). Meta-analysis of gray matter anomalies in schizophrenia: application of anatomic likelihood estimation and network analysis. *Biological Psychiatry*, 64(9):774-781. PMID: 18486104. https://pubmed.ncbi.nlm.nih.gov/18486104/
 
+6. Koster M, Mannsdörfer L, van der Pluijm M, de Haan L, Ziermans T, van Wingen G, Vermeulen J (2025a). The association between chronic tobacco smoking and brain alterations in schizophrenia: A systematic review of magnetic resonance imaging studies. *Schizophrenia Bulletin*, 51(3):608-624. PMID: 38824451. https://pubmed.ncbi.nlm.nih.gov/38824451/
+
+7. Koster M, van der Pluijm M, Fraikin M, van Wingen G, van de Giessen E, de Haan L, Vermeulen J, Ziermans T (2025b). Tobacco smoking and gray matter volume in individuals at clinical high risk for psychosis: A longitudinal magnetic resonance imaging study. *Biological Psychiatry: Global Open Science*, 5(4):100539. https://www.sciencedirect.com/science/article/pii/S266717432500093X
+
 ---
 
-*Draft version - complete manuscript draft ready for review*
+*Draft version - revised with Koster et al. comparison*

@@ -123,6 +123,20 @@
 
 ---
 
+## Comparison Reviews (for Results/Discussion context)
+
+25. **Koster M**, Mannsdörfer L, van der Pluijm M, de Haan L, Ziermans T, van Wingen G, Vermeulen J (2025a). The association between chronic tobacco smoking and brain alterations in schizophrenia: A systematic review of magnetic resonance imaging studies. *Schizophrenia Bulletin*, 51(3):608-624.
+    - PMID: 38824451
+    - Link: https://pubmed.ncbi.nlm.nih.gov/38824451/
+    - **Note**: Comprehensive systematic review including 8 structural + 14 functional MRI studies
+
+26. **Koster M**, van der Pluijm M, Fraikin M, van Wingen G, van de Giessen E, de Haan L, Vermeulen J, Ziermans T (2025b). Tobacco smoking and gray matter volume in individuals at clinical high risk for psychosis: A longitudinal magnetic resonance imaging study. *Biological Psychiatry: Global Open Science*, 5(4):100539.
+    - DOI: 10.1016/j.bpsgos.2025.100539
+    - Link: https://www.sciencedirect.com/science/article/pii/S266717432500093X
+    - **Note**: NAPLS-3 cohort (n=542 CHR); found NO smoking-GMV association in CHR
+
+---
+
 ## Summary
 
 | Category | Count |
@@ -131,7 +145,8 @@
 | Excluded studies | 5 |
 | Methodology references | 4 |
 | Background references | 7 |
-| **Total** | **24** |
+| Comparison reviews | 2 |
+| **Total** | **26** |
 
 ---
 

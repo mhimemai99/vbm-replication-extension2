@@ -123,6 +123,52 @@ A key aim of this scoping review was to determine whether any included study mea
 
 **None of the eight included studies measured psychological flexibility.** This confirms a significant gap in the literature: despite theoretical and empirical grounds for hypothesizing a relationship between psychological flexibility, brain structure, and smoking in schizophrenia, this question remains entirely unexplored.
 
+## Comparison with Related Reviews
+
+Two recent publications by Koster and colleagues provide important context for interpreting our findings.
+
+### Koster et al. 2025 (Schizophrenia Bulletin) - Systematic Review
+
+Koster et al. (2025a) published a systematic review examining the association between chronic tobacco smoking and brain alterations in schizophrenia, including both structural and functional MRI studies. Their review included 8 structural and 14 functional studies.
+
+**Table 4. Comparison with Koster et al. (2025a) Systematic Review**
+
+| Feature | Present Scoping Review | Koster et al. (2025a) |
+|---------|----------------------|----------------------|
+| **Focus** | Structural MRI only | Structural + Functional MRI |
+| **Population** | Diagnosed SZ/SZA/SZF | Schizophrenia spectrum disorders |
+| **Structural studies included** | 8 | 8 |
+| **DTI included** | No (excluded) | Yes |
+| **Psychological flexibility** | Explicitly assessed (gap confirmed) | Not assessed |
+| **Symptom correlations** | Explicitly extracted | Not primary focus |
+| **Key structural finding** | Smoking associated with GMV reductions | "Widespread independent and additive reductions in gray matter" |
+
+Both reviews converge on the conclusion that smoking is associated with gray matter reductions in schizophrenia, particularly in prefrontal, cingulate, and temporal regions. However, our scoping review extends beyond Koster et al. by:
+1. Explicitly excluding DTI to focus on gray matter morphometry
+2. Systematically assessing the psychological flexibility gap
+3. Prioritizing within-diagnosis smoking comparisons over general smoking effects
+4. Extracting symptom severity correlations as a secondary outcome
+
+### Koster et al. 2025 (Biological Psychiatry: Global Open Science) - CHR Study
+
+Koster et al. (2025b) conducted a longitudinal study examining smoking and gray matter volume in 542 individuals at clinical high risk for psychosis (CHR-P) from the NAPLS-3 cohort. Notably, they found **no cross-sectional or longitudinal associations** between smoking and gray matter volume over 8 months in CHR individuals.
+
+**Table 5. Comparison: Diagnosed Schizophrenia vs. Clinical High Risk**
+
+| Feature | Present Review (Diagnosed SZ) | Koster et al. 2025b (CHR-P) |
+|---------|------------------------------|----------------------------|
+| **Population** | Diagnosed schizophrenia | Clinical high-risk |
+| **Smoking-GMV association** | Yes (consistent reductions) | No association detected |
+| **Regions affected** | Hippocampus, ACC, insula, PFC | None significant |
+| **Interpretation** | Smoking associated with structural differences | Effects may emerge after diagnosis/with prolonged exposure |
+
+This contrast is clinically significant: smoking-related gray matter differences appear to be detectable in diagnosed schizophrenia but not yet evident in the CHR stage. This suggests either:
+- Smoking effects require longer exposure or more severe illness to manifest structurally
+- The CHR sample had lower smoking intensity (noted as a limitation in their study)
+- Structural changes emerge as a consequence of the disease-smoking interaction over time
+
+This stage-specific pattern has implications for prevention: if smoking-related brain changes are not yet present in CHR, early smoking cessation interventions might prevent these structural alterations.
+
 ## Summary of Key Findings
 
 1. **Brain regions consistently affected**: Hippocampus, anterior cingulate cortex, and insula showed consistent reductions in smokers with schizophrenia across multiple studies.
@@ -134,6 +180,8 @@ A key aim of this scoping review was to determine whether any included study mea
 4. **Symptom correlations**: Limited evidence suggests smoking-related brain differences are associated with greater symptom severity.
 
 5. **Psychological flexibility gap**: No study has examined psychological flexibility in relation to brain structure in this population, representing a clear research gap and opportunity for future investigation.
+
+6. **Contrast with CHR populations**: Unlike diagnosed schizophrenia where smoking-GMV associations are consistently observed, CHR individuals show no such associations (Koster et al., 2025b), suggesting smoking-related structural changes may emerge after illness onset or with prolonged exposure.
 
 ---
 
@@ -161,8 +209,12 @@ A key aim of this scoping review was to determine whether any included study mea
 
 10. Cullen KR, et al. (2012). Cigarette smoking and white matter microstructure in schizophrenia. PMID: 22051043. https://pubmed.ncbi.nlm.nih.gov/22051043/ [Excluded: DTI only]
 
-11. Koster M, et al. (2025). Tobacco smoking and gray matter volume in individuals at clinical high risk for psychosis. [Excluded: CHR population]
+### Comparison Reviews
+
+11. Koster M, Mannsdörfer L, van der Pluijm M, de Haan L, Ziermans T, van Wingen G, Vermeulen J (2025a). The association between chronic tobacco smoking and brain alterations in schizophrenia: A systematic review of magnetic resonance imaging studies. *Schizophrenia Bulletin*, 51(3):608-624. PMID: 38824451. https://pubmed.ncbi.nlm.nih.gov/38824451/
+
+12. Koster M, van der Pluijm M, Fraikin M, van Wingen G, van de Giessen E, de Haan L, Vermeulen J, Ziermans T (2025b). Tobacco smoking and gray matter volume in individuals at clinical high risk for psychosis: A longitudinal magnetic resonance imaging study. *Biological Psychiatry: Global Open Science*, 5(4):100539. https://www.sciencedirect.com/science/article/pii/S266717432500093X [Excluded from synthesis: CHR population, but used for comparison]
 
 ---
 
-*Draft version - awaiting confirmation before proceeding to Discussion section*
+*Draft version - revised with Koster et al. comparison*
