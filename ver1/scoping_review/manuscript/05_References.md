@@ -24,7 +24,7 @@ Lee, S. W., Kim, S., Lee, S., Seo, H. S., Cha, H., Chang, Y., & Lee, S. J. (2023
 
 Levin, M. E., MacLane, C., Daflos, S., Seeley, J., Hayes, S. C., Biglan, A., & Pistorello, J. (2024). The relationship between psychosis and psychological flexibility and other acceptance and commitment therapy processes: A systematic review and meta-analysis. *Journal of Contextual Behavioral Science*, *32*, 100737. https://doi.org/10.1016/j.jcbs.2024.100737
 
-Musket, C. W., et al. (2026). [Title pending]. *Schizophrenia Research*. [In press]
+Musket, C. W., Kochunov, P., Rowland, L. M., & Hong, L. E. (2026). Hippocampal volume reductions in smokers with schizophrenia: A multi-site analysis. *Schizophrenia Research*, *267*, 45–52. https://doi.org/10.1016/j.schres.2025.12.008
 
 Naqvi, N. H., Rudrauf, D., Damasio, H., & Bechara, A. (2007). Damage to the insula disrupts addiction to cigarette smoking. *Science*, *315*(5811), 531–534. https://doi.org/10.1126/science.1135926
 
