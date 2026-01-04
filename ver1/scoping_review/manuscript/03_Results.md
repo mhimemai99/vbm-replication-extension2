@@ -18,20 +18,22 @@ Database searching identified 4 fMRI studies examining neural correlates of psyc
 
 | Study | Population | N | Design | PF Measure | Key Regions |
 |-------|------------|---|--------|------------|-------------|
-| Smallwood et al. (2016) | Opioid addiction + chronic pain | Pilot | RCT: 8-week ACT vs. control | ACT intervention | ACC, insula, PCC, MFG |
+| Smallwood et al. (2016) | Opioid addiction + chronic pain | 25 | RCT: 8-week ACT vs. HEC | ACT intervention | ACC, insula, PCC, MFG, IPL, STG |
 | Aytur et al. (2021) | Chronic pain (women) | 9 | Pre-post ACT (4 weeks) | AAQ-II, CPAQ | DMN, SN, FPN |
-| Lee et al. (2023) | OCD | 42 | RCT: 8-week ACT vs. waitlist | AAQ-II | Insula, STG, IFG, PCC |
-| 2025 DMN-DAN study | Healthy adults | 42 | Cross-sectional | AAQ-II | DMN, DAN |
+| Lee et al. (2023) | OCD | 42 | RCT: 8-week ACT vs. waitlist | AAQ-OC, CFQ | Insula, STG, IFG, PCC, precuneus |
+| 2025 DMN-DAN study | Healthy adults | 42 | Cross-sectional | AAQ-II | DMN, DAN (164 ROIs) |
 
-*Abbreviations: ACC = anterior cingulate cortex; PCC = posterior cingulate cortex; MFG = middle frontal gyrus; DMN = default mode network; SN = salience network; FPN = frontoparietal network; IFG = inferior frontal gyrus; STG = superior temporal gyrus; DAN = dorsal attention network*
+**Total N across studies: 118**
+
+*Abbreviations: ACC = anterior cingulate cortex; PCC = posterior cingulate cortex; MFG = middle frontal gyrus; DMN = default mode network; SN = salience network; FPN = frontoparietal network; IFG = inferior frontal gyrus; STG = superior temporal gyrus; DAN = dorsal attention network; HEC = health education control; ROIs = regions of interest*
 
 ### Synthesis by Brain Region
 
-**Insula**: Two studies (Smallwood 2016; Lee 2023) reported insula involvement. Smallwood found decreased insula activation post-ACT; Lee found increased bilateral insula activation and strengthened insula-IFG connectivity following ACT for OCD. The insula is implicated in interoception, salience processing, and craving.
+**Insula**: Two studies (Smallwood 2016; Lee 2023) reported insula involvement. Smallwood found decreased insula activation post-ACT in pain/addiction; Lee found increased bilateral insula activation and strengthened insula-IFG connectivity following ACT for OCD. Critically, Lee found left insula activity correlated with AAQ-OC improvement (rho = −0.346, p = 0.036). The insula is implicated in interoception, salience processing, and craving.
 
 **Anterior Cingulate Cortex (ACC)**: Two studies (Smallwood 2016; Aytur 2021) identified ACC. Smallwood found decreased ACC activation post-ACT; Aytur found connectivity changes involving ACC correlated with AAQ-II improvement. The ACC is critical for conflict monitoring and cognitive control.
 
-**Posterior Cingulate Cortex (PCC) / Precuneus**: Three studies (Smallwood 2016; Lee 2023; 2025 study) implicated PCC or related DMN structures. These regions are involved in self-referential processing and are core DMN hubs.
+**Posterior Cingulate Cortex (PCC) / Precuneus**: Three studies (Smallwood 2016; Lee 2023; 2025 study) implicated PCC or related DMN structures. Lee found right PCC connectivity correlated with AAQ-OC improvement (rho = −0.488, p = 0.001). These regions are involved in self-referential processing and are core DMN hubs.
 
 **Prefrontal Cortex (MFG, IFG)**: Two studies (Smallwood 2016; Lee 2023) reported prefrontal changes. Smallwood found decreased MFG activation; Lee found strengthened insula-IFG connectivity post-ACT.
 
