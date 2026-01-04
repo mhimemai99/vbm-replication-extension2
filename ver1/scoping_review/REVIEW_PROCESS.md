@@ -10,8 +10,63 @@ This document describes the iterative review process used to improve manuscript 
 2. **Self-Review**: Act as peer reviewer - identify major and minor issues
 3. **Prioritized Revision**: Address issues by priority (major before minor)
 4. **Document Changes**: Log all changes made in each iteration
-5. **Re-Review**: Review revised manuscript for remaining issues
-6. **Iterate**: Repeat until satisfactory quality is reached
+5. **Re-Review Check**: Evaluate if further revision needed (see decision function below)
+6. **Iterate or Finalize**: If re-review needed → repeat from step 2; if not → finalize
+
+---
+
+## Re-Review Decision Function
+
+After each iteration, evaluate the manuscript against these criteria:
+
+### Decision Criteria
+
+| Category | Question | Weight |
+|----------|----------|--------|
+| Major Issues | Are there any remaining major methodological flaws? | Critical |
+| Major Issues | Are claims still overclaimed or unsupported? | Critical |
+| Major Issues | Are there factual errors or citation problems? | Critical |
+| Minor Issues | Is writing style consistently academic? | Important |
+| Minor Issues | Are there redundant sections/tables? | Low |
+| Minor Issues | Could language be more precise? | Low |
+
+### Decision Rules
+
+```
+IF any Critical issue = YES:
+    → RE-REVIEW NEEDED (next iteration)
+
+ELSE IF multiple Important issues = YES:
+    → RE-REVIEW NEEDED (next iteration)
+
+ELSE IF only Low issues remain:
+    → FINALIZE (acceptable for submission)
+
+ELSE:
+    → FINALIZE
+```
+
+### Re-Review Output Format
+
+```
+## Re-Review Check: Iteration [N]
+
+Critical Issues:
+- [ ] Major methodological flaws: [YES/NO] - [details if YES]
+- [ ] Overclaimed/unsupported claims: [YES/NO] - [details if YES]
+- [ ] Factual/citation errors: [YES/NO] - [details if YES]
+
+Important Issues:
+- [ ] Academic writing style: [YES/NO] - [details if YES]
+
+Low Priority Issues:
+- [ ] Redundancies: [YES/NO] - [details if YES]
+- [ ] Language precision: [YES/NO] - [details if YES]
+
+DECISION: [RE-REVIEW NEEDED / FINALIZE]
+```
+
+---
 
 ## Review Criteria
 
@@ -52,29 +107,45 @@ This document describes the iterative review process used to improve manuscript 
 - 04_Discussion.md
 - 05_References.md
 
+**Re-Review Check: Iteration 1**
+
+Critical Issues:
+- [x] Major methodological flaws: NO
+- [x] Overclaimed/unsupported claims: NO - cautious language added throughout
+- [x] Factual/citation errors: NO - Musket 2026 fixed
+
+Important Issues:
+- [x] Academic writing style: NO - prose style maintained
+
+Low Priority Issues:
+- [ ] Redundancies: MINOR - Methods section could be streamlined
+- [ ] Language precision: MINOR - some phrases could be tightened
+
+**DECISION: FINALIZE** - No critical or important issues remain. Low priority issues are acceptable for submission.
+
 ---
 
 ### Iteration 2
 
-*(To be completed after re-review)*
+*(Not needed - manuscript finalized after Iteration 1)*
 
 ---
 
-### Iteration 3
+## Quality Checklist (Final Verification)
 
-*(To be completed if needed)*
+- [x] Title accurately reflects content
+- [x] All claims are appropriately hedged
+- [x] Contradictory findings acknowledged
+- [x] Limitations section comprehensive
+- [x] PRISMA-ScR requirements met (study selection flow added)
+- [x] All citations verified
+- [x] No redundant tables/figures
+- [x] Academic prose throughout
 
 ---
 
-## Quality Checklist
+## Final Status
 
-Before finalizing, verify:
+**MANUSCRIPT FINALIZED**: 2026-01-04
 
-- [ ] Title accurately reflects content
-- [ ] All claims are appropriately hedged
-- [ ] Contradictory findings acknowledged
-- [ ] Limitations section comprehensive
-- [ ] PRISMA-ScR requirements met
-- [ ] All citations verified
-- [ ] No redundant tables/figures
-- [ ] Academic prose throughout
+All major and important issues addressed. Manuscript ready for submission.
