@@ -2,86 +2,81 @@
 
 ## Summary of Evidence
 
-This scoping review bridged three literatures: behavioral research on psychological flexibility, functional neuroimaging of ACT processes, and structural neuroimaging of smoking in schizophrenia. The central finding is that brain regions showing functional correlates of psychological flexibility—the anterior cingulate cortex, insula, prefrontal cortex, and default mode network structures—are the same regions showing structural differences between smokers and non-smokers with schizophrenia.
+This scoping review systematically examined two neuroimaging literatures to identify gaps and convergence. The fMRI literature on psychological flexibility/ACT is sparse (4 studies) but consistently implicates the anterior cingulate cortex (ACC), insula, posterior cingulate cortex (PCC), and prefrontal cortex. The sMRI literature on smoking in schizophrenia (8 studies) demonstrates consistent gray matter reductions in hippocampus, ACC, and insula. Critically, these literatures have never been bridged: no study has examined psychological flexibility in relation to brain structure.
 
-The behavioral literature confirms that psychological flexibility is reduced in schizophrenia and predicts smoking behavior, while ACT interventions show efficacy for both populations (Fan et al., 2025: RR = 1.42 for smoking cessation). The functional neuroimaging literature identifies specific brain regions where ACT produces changes (Smallwood et al., 2016). The structural neuroimaging literature demonstrates that smokers with schizophrenia show reduced gray matter in precisely these regions. Yet no study has examined psychological flexibility in relation to brain structure in this population.
+The central finding is **regional convergence**: ACC, insula, and prefrontal cortex appear in both literatures—functionally associated with psychological flexibility and structurally different in smokers with schizophrenia. This convergence provides anatomical grounding for investigating psychological flexibility as a mechanism linking brain structure to smoking behavior.
 
-## The Psychological Flexibility Gap
+## The Double Gap
 
-The complete absence of psychological flexibility measures across all 8 structural MRI studies represents the key finding of this review.
+This review identifies two related gaps:
 
-**Theoretical coherence**: Psychological flexibility—the capacity to remain present, accept difficult experiences, and act according to values—is relevant to both psychiatric symptoms and addictive behavior. The high smoking rates in schizophrenia may reflect experiential avoidance: smoking as a means of escaping difficult internal experiences. Farris et al. (2014) demonstrated that smoking-specific experiential avoidance predicts withdrawal severity and relapse.
+**Gap 1: fMRI literature has no structural component.** All 4 fMRI studies examining psychological flexibility used functional imaging. Zero examined whether psychological flexibility relates to brain structure (gray matter volume, cortical thickness).
 
-**Clinical efficacy**: ACT interventions have demonstrated efficacy for both smoking cessation (RR = 1.42; Fan et al., 2025) and symptom management in psychosis (Jansen et al., 2021). The existence of effective interventions increases the clinical relevance of understanding neural substrates.
+**Gap 2: sMRI literature has no psychological flexibility measures.** All 8 sMRI studies examining smoking in schizophrenia measured smoking status and brain structure, but none included the AAQ-II, CFQ, CompACT, or any ACT-related measure.
 
-**Neural correlates established**: Functional neuroimaging has identified brain correlates of psychological flexibility in the ACC, insula, and prefrontal cortex—the same regions showing structural differences in smokers with schizophrenia.
+These gaps are complementary: the psychological flexibility literature lacks structural imaging, and the structural neuroimaging literature lacks psychological flexibility measures.
 
-**Mechanistic potential**: The convergence suggests a testable model: individual differences in gray matter volume in ACC, insula, and prefrontal cortex may relate to psychological flexibility, which in turn influences smoking behavior and treatment response.
+## Regional Convergence
 
-## Regional Findings
+The overlap of ACC, insula, and prefrontal cortex across literatures is not coincidental. These regions serve functions directly relevant to psychological flexibility and addiction:
 
-### Hippocampus
+**Anterior Cingulate Cortex**: Critical for conflict monitoring, error detection, and cognitive control. Individuals who continue smoking despite health awareness may show ACC dysfunction. Both Smallwood et al. (2016) and Aytur et al. (2021) found ACC changes following ACT.
 
-The consistent finding of reduced hippocampal volume in smokers with schizophrenia aligns with literature on nicotine's effects on this structure. The hippocampus contains high densities of nicotinic acetylcholine receptors and is vulnerable to neurotoxic effects.
+**Insula**: Implicated in interoception, craving, and emotional awareness. Naqvi et al. (2007) demonstrated that insular damage can lead to spontaneous smoking cessation. Lee et al. (2023) found insula changes post-ACT for OCD, and Jørgensen et al. (2015) found thinner insula in smokers with schizophrenia.
 
-### Anterior Cingulate Cortex and Insula
+**Prefrontal Cortex**: Executive function and value-based decision-making. Reduced prefrontal gray matter in smokers with schizophrenia (Schneider 2014; Yokoyama 2018) may impair capacity for value-consistent action—a core component of psychological flexibility.
 
-The ACC and insula findings are particularly notable given these regions' roles in psychological flexibility. The ACC is critical for conflict monitoring and cognitive control. The insula has been implicated in craving and interoceptive awareness—lesion studies show insular damage can lead to spontaneous smoking cessation (Naqvi et al., 2007).
+## Implications
 
-Importantly, both ACC and insula are consistently identified in fMRI studies of ACT interventions. Smallwood et al. (2016) found ACT altered activation in precisely these regions. This regional overlap provides the empirical basis for investigating psychological flexibility in relation to brain structure.
+### Testable Model
 
-### Prefrontal Cortex
+The convergence suggests a testable model:
+1. Individual differences in gray matter volume in ACC, insula, and prefrontal cortex may relate to psychological flexibility
+2. Psychological flexibility may influence smoking behavior and cessation success
+3. ACT interventions targeting psychological flexibility may produce structural as well as functional brain changes
 
-The inconsistent prefrontal findings merit consideration. Tregellas et al. (2007) reported increased gray matter in smokers, while later studies found decreases. The weight of current evidence suggests reductions.
+### Research Recommendation
+
+A study combining:
+- Structural MRI (gray matter volume, cortical thickness)
+- Psychological flexibility measures (AAQ-II, CFQ)
+- Smoking characterization
+- Schizophrenia population
+
+Such a study could determine whether the regional convergence observed across separate literatures reflects a genuine relationship between brain structure, psychological flexibility, and smoking.
 
 ## Relationship to Koster et al. (2025)
 
-Koster et al. (2025) published a comprehensive systematic review of smoking and brain alterations in schizophrenia, including 6 gray matter studies. Our scoping review extends their work by:
-
-1. Including 2 additional studies (Qiu 2024, Musket 2026)—a 33% increase to the evidence base
-2. Systematically assessing the psychological flexibility gap
-3. Establishing regional convergence with functional neuroimaging
-
-Both reviews converge on the core finding: smoking is associated with gray matter reductions in prefrontal, cingulate, insular, and hippocampal regions in schizophrenia.
-
-## Implications for Research
-
-### Primary Recommendation
-
-A study combining structural MRI, psychological flexibility measures (AAQ-II, CFQ, CompACT), and smoking characterization in schizophrenia is warranted. Such a study could test whether:
-- Psychological flexibility differs between smokers and non-smokers with schizophrenia
-- Brain structure in ACC, insula, and prefrontal cortex correlates with psychological flexibility
-- Psychological flexibility mediates brain-smoking relationships
-- These measures predict smoking cessation treatment response
-
-### Methodological Recommendations
-
-1. **Longitudinal designs** to clarify directionality
-2. **Standardized smoking assessment** with biochemical verification
-3. **Intervention studies** examining whether ACT produces structural brain changes
+Koster et al. (2025) provided a comprehensive systematic review of smoking and brain alterations in schizophrenia, including 6 gray matter studies. Our review:
+1. Adds 2 studies (Qiu 2024; Musket 2026)—33% increase to evidence base
+2. Confirms and extends their findings
+3. Uniquely identifies the psychological flexibility gap
+4. Establishes convergence with fMRI literature
 
 ## Limitations
 
-First, the behavioral and functional neuroimaging literatures were scoped narratively rather than systematically. Second, consistent with scoping review methodology, we did not assess study quality. Third, heterogeneity across structural studies limits direct comparison. Fourth, by excluding DTI, we did not capture white matter findings.
+First, the fMRI literature on psychological flexibility is sparse (4 studies) with small samples (N = 9 to 42). Second, populations across fMRI studies varied (chronic pain, OCD, healthy adults), limiting generalizability to schizophrenia. Third, consistent with scoping review methodology, we did not assess study quality. Fourth, by excluding DTI, we did not capture white matter findings.
 
 ## Conclusions
 
-This scoping review demonstrates convergence across three literatures. Behavioral research establishes that psychological flexibility predicts outcomes in schizophrenia and smoking. Functional neuroimaging identifies ACC, insula, and prefrontal cortex as neural correlates of psychological flexibility. Structural neuroimaging reveals smokers with schizophrenia show reduced gray matter in these same regions. Yet no study has examined psychological flexibility in relation to brain structure in this population.
+This scoping review demonstrates:
+1. The fMRI literature identifies ACC, insula, PCC, and prefrontal cortex as functional correlates of psychological flexibility
+2. The sMRI literature shows smokers with schizophrenia have reduced gray matter in hippocampus, ACC, and insula
+3. Regional convergence exists for ACC, insula, and prefrontal cortex
+4. No study has combined psychological flexibility measures with structural MRI
 
-This convergence, combined with the complete absence of psychological flexibility measures across structural studies, identifies a clear research priority. Given that ACT interventions are effective for both schizophrenia and smoking cessation, understanding the neural basis of psychological flexibility could inform personalized treatment.
+This gap represents a clear research priority. Given that ACT interventions are effective for both schizophrenia and smoking cessation, understanding the structural neural basis of psychological flexibility could inform personalized treatment approaches.
 
 ---
 
 ## References
 
-1. Fan L et al. (2025). ACT for smoking cessation meta-analysis. *Worldviews Evid Based Nurs*. https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/wvn.70086
+1. Smallwood RF et al. (2016). Neurophysiological mechanisms in ACT. *Psychiatry Res Neuroimaging*, 250:12-14. https://pubmed.ncbi.nlm.nih.gov/27042976/
 
-2. Smallwood RF et al. (2016). Neurophysiological mechanisms in ACT. *Psychiatry Res Neuroimaging*, 250:12-14. https://pubmed.ncbi.nlm.nih.gov/27042976/
+2. Aytur SA et al. (2021). Neural mechanisms of ACT for chronic pain. *Front Hum Neurosci*, 15:587018. https://pubmed.ncbi.nlm.nih.gov/33613207/
 
-3. Farris SG et al. (2014). Smoking-specific experiential avoidance. *Drug Alcohol Depend*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4320024/
+3. Lee SW et al. (2023). Neural mechanisms of ACT for OCD. *Psychol Med*. https://pubmed.ncbi.nlm.nih.gov/37427558/
 
-4. Jansen JE et al. (2021). ACT for psychosis meta-analysis. *Psychol Med*. https://ncbi.nlm.nih.gov/pmc/articles/PMC8136399
+4. Naqvi NH et al. (2007). Insula damage disrupts smoking addiction. *Science*, 315:531-534. https://pubmed.ncbi.nlm.nih.gov/17255515/
 
-5. Naqvi NH et al. (2007). Insula damage disrupts smoking addiction. *Science*, 315:531-534. https://pubmed.ncbi.nlm.nih.gov/17255515/
-
-6. Koster M et al. (2025). Tobacco smoking and brain alterations in schizophrenia. *Schizophr Bull*, 51(3):608-624. https://pubmed.ncbi.nlm.nih.gov/38824451/
+5. Koster M et al. (2025). Tobacco smoking and brain alterations in schizophrenia. *Schizophr Bull*, 51(3):608-624. https://pubmed.ncbi.nlm.nih.gov/38824451/
