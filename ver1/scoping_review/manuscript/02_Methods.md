@@ -102,18 +102,4 @@ Consistent with scoping review methodology, formal quality assessment was not co
 
 ## Synthesis
 
-Results synthesized narratively:
-1. fMRI findings on psychological flexibility (studies identified, brain regions)
-2. sMRI findings on smoking in schizophrenia (studies identified, brain regions)
-3. Convergence analysis
-4. Psychological flexibility gap (presence/absence of AAQ-II etc. in sMRI literature)
-
----
-
-## References
-
-1. Peters MDJ et al. (2020). Chapter 11: Scoping Reviews. *JBI Manual for Evidence Synthesis*. https://jbi-global-wiki.refined.site/space/MANUAL/355862533
-
-2. Tricco AC et al. (2018). PRISMA-ScR. *Ann Intern Med*, 169(7):467-473. https://pubmed.ncbi.nlm.nih.gov/30178033/
-
-3. Koster M et al. (2025). Tobacco smoking and brain alterations in schizophrenia. *Schizophr Bull*, 51(3):608-624. https://pubmed.ncbi.nlm.nih.gov/38824451/
+Results were synthesized narratively, addressing fMRI findings on psychological flexibility, sMRI findings on smoking in schizophrenia, regional convergence across literatures, and the presence or absence of psychological flexibility measurement in the structural literature.
