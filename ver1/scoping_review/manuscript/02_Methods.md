@@ -1,105 +1,25 @@
 # Methods
 
-This scoping review was conducted following the Joanna Briggs Institute methodology for scoping reviews (Peters et al., 2020). Reporting adheres to the PRISMA-ScR guidelines (Tricco et al., 2018).
+This scoping review was conducted following the Joanna Briggs Institute methodology for scoping reviews (Peters et al., 2020) and reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines (Tricco et al., 2018). The protocol was developed a priori and is available from the corresponding author upon request.
 
-## Protocol
+## Eligibility Criteria
 
-The scoping review protocol was developed a priori and is available from the corresponding author upon request.
+Two separate literature searches were conducted: one for functional neuroimaging studies on psychological flexibility, and one for structural neuroimaging studies on smoking in schizophrenia. Eligibility criteria were developed using the Population, Concept, Context (PCC) framework.
 
-## Overview
+For the functional neuroimaging literature, eligible studies included adults with or without psychiatric diagnoses who underwent functional MRI examining either neural correlates of psychological flexibility (measured by the Acceptance and Action Questionnaire-II or related instruments) or brain changes following Acceptance and Commitment Therapy interventions. Both clinical and non-clinical samples were eligible, as were intervention and correlational designs.
 
-This scoping review addressed four aims through two systematic literature searches:
+For the structural neuroimaging literature, eligible studies included adults aged 18 years or older with diagnosed schizophrenia, schizoaffective disorder, or schizophreniform disorder according to DSM or ICD criteria. Studies of clinical high-risk populations were excluded. Eligible studies compared smokers to non-smokers within schizophrenia samples using T1-weighted structural MRI, including voxel-based morphometry, FreeSurfer, or region-of-interest methods to measure gray matter volume, cortical thickness, or subcortical volumes. Studies using only functional MRI, diffusion tensor imaging, positron emission tomography, single-photon emission computed tomography, or magnetic resonance spectroscopy were excluded. Diffusion tensor imaging was specifically excluded because it measures white matter microstructure rather than gray matter. Studies were limited to peer-reviewed, English-language publications with cross-sectional, longitudinal, or case-control designs.
 
-1. **fMRI scoping**: Studies examining neural correlates of psychological flexibility or ACT interventions
-2. **sMRI scoping**: Studies examining gray matter differences in smokers vs. non-smokers with schizophrenia
+## Information Sources and Search Strategy
 
-Behavioral evidence on psychological flexibility was summarized from existing meta-analyses to establish clinical relevance (Introduction), but was not systematically scoped.
+For the functional neuroimaging literature, PubMed and Google Scholar were searched in January 2026 using the following terms: (psychological flexibility OR acceptance commitment therapy OR ACT) AND (fMRI OR functional MRI OR neuroimaging OR neural correlates OR brain activation).
 
----
+For the structural neuroimaging literature, PubMed/MEDLINE, PsycINFO, Embase, and Web of Science were searched from inception to January 2026. The search strategy combined three concept blocks: schizophrenia spectrum disorders, tobacco smoking, and structural brain imaging. The full search strategy is available in Supplementary File 1. Reference lists of included studies were screened, and forward citation searching was conducted. The initial study set was derived from a recent systematic review by Koster et al. (2025), supplemented by searching for studies published after their search end date of June 2023.
 
-## Literature 1: fMRI Studies on Psychological Flexibility
+## Study Selection and Data Extraction
 
-### Eligibility Criteria
+Studies were screened in two stages: title and abstract screening followed by full-text assessment. For the functional neuroimaging literature, data extracted included citation details, population characteristics, sample size, study design, imaging method, psychological flexibility measure used, brain regions or networks identified, and key findings. For the structural neuroimaging literature, data extracted included study characteristics, population demographics, smoking variables, imaging methods, brain regions analyzed, smoker versus non-smoker findings, and whether any psychological flexibility measure was included.
 
-**Population**: Adults, with or without psychiatric diagnoses.
+## Analysis
 
-**Concept**: Studies using functional MRI (fMRI) to examine:
-- Neural correlates of psychological flexibility (AAQ-II or related measures)
-- Brain activation or connectivity changes following ACT interventions
-
-**Context**: Clinical or non-clinical samples; intervention or correlational designs.
-
-### Information Sources
-
-PubMed and Google Scholar were searched in January 2026.
-
-### Search Strategy
-
-Search terms: (psychological flexibility OR acceptance commitment therapy OR ACT) AND (fMRI OR functional MRI OR neuroimaging OR neural correlates OR brain activation)
-
-### Selection and Data Extraction
-
-Studies were screened for relevance by title/abstract, then full-text review. Data extracted: citation, population, sample size, design, imaging method, psychological flexibility measure, brain regions/networks, key findings.
-
----
-
-## Literature 2: sMRI Studies on Smoking in Schizophrenia
-
-### Eligibility Criteria
-
-Developed using the Population, Concept, Context (PCC) framework.
-
-**Population**: Adults (≥18 years) with diagnosed schizophrenia, schizoaffective disorder, or schizophreniform disorder (DSM/ICD criteria). Clinical high-risk (CHR) populations were excluded.
-
-**Concept**:
-1. *Smoking status*: Studies comparing smokers vs. non-smokers within schizophrenia
-2. *Structural imaging*: T1-weighted sMRI outcomes (gray matter volume, cortical thickness, subcortical volumes). VBM, FreeSurfer, and ROI methods included.
-3. *Psychological flexibility*: We assessed whether any study measured AAQ-II, CFQ, CompACT, or related ACT constructs.
-
-Studies using only fMRI, DTI, PET, SPECT, or MRS were excluded. DTI was excluded because it measures white matter microstructure rather than gray matter.
-
-**Context**: Cross-sectional, longitudinal, or case-control designs. Peer-reviewed, English-language publications.
-
-### Information Sources
-
-Databases searched from inception to January 2026:
-1. PubMed/MEDLINE
-2. PsycINFO
-3. Embase
-4. Web of Science
-
-Additional sources: reference lists of included studies and Koster et al. (2025) systematic review; forward citation searching.
-
-### Search Strategy
-
-Three concept blocks combined: (1) schizophrenia spectrum disorders, (2) tobacco smoking, (3) structural brain imaging. Full strategy in Supplementary File 1.
-
-### Selection Process
-
-Stage 1: Title/abstract screening. Stage 2: Full-text assessment by two reviewers.
-
-Initial study set derived from Koster et al. (2025), supplemented by searching for studies published after June 2023.
-
-### Data Extraction
-
-Data extracted: study characteristics, population demographics, smoking variables, imaging methods, brain regions analyzed, smoker vs. non-smoker findings, psychological flexibility measures (if any).
-
----
-
-## Convergence Analysis
-
-To address Aim 4, we compared:
-- Brain regions identified in fMRI studies as correlates of psychological flexibility/ACT
-- Brain regions identified in sMRI studies as showing smoker vs. non-smoker differences in schizophrenia
-
-Regional convergence was assessed qualitatively.
-
----
-
-## Critical Appraisal
-
-Consistent with scoping review methodology, formal quality assessment was not conducted.
-
-## Synthesis
-
-Results were synthesized narratively, addressing fMRI findings on psychological flexibility, sMRI findings on smoking in schizophrenia, regional convergence across literatures, and the presence or absence of psychological flexibility measurement in the structural literature.
+To compare findings across the two literatures, brain regions identified in fMRI studies as correlates of psychological flexibility were compared with brain regions identified in sMRI studies as showing differences between smokers and non-smokers with schizophrenia. This comparison was conducted qualitatively. Consistent with scoping review methodology, formal quality assessment of included studies was not conducted. Results were synthesized narratively.

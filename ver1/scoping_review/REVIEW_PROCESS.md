@@ -125,9 +125,34 @@ Low Priority Issues:
 
 ---
 
-### Iteration 2
+### Iteration 2 (2026-01-04)
 
-*(Not needed - manuscript finalized after Iteration 1)*
+**Reviewer Comments Addressed:**
+
+| Issue | Category | Action Taken |
+|-------|----------|--------------|
+| Methods section unprofessional | Major | Complete rewrite removing bullet points, numbered lists, bold labels, horizontal rules |
+| Fragmented structure | Major | Consolidated into flowing academic paragraphs |
+| AI-like formatting | Major | Removed all stylistic markers (---, ###, **bold**) |
+
+**Files Modified:**
+- 02_Methods.md
+
+**Re-Review Check: Iteration 2**
+
+Critical Issues:
+- [x] Major methodological flaws: NO
+- [x] Overclaimed/unsupported claims: NO
+- [x] Factual/citation errors: NO
+
+Important Issues:
+- [x] Academic writing style: NO - Methods now in proper prose
+
+Low Priority Issues:
+- [x] Redundancies: NO
+- [x] Language precision: NO
+
+**DECISION: FINALIZE** - All sections now in proper academic prose
 
 ---
 
@@ -146,6 +171,6 @@ Low Priority Issues:
 
 ## Final Status
 
-**MANUSCRIPT FINALIZED**: 2026-01-04
+**MANUSCRIPT FINALIZED**: 2026-01-04 (Iteration 2)
 
-All major and important issues addressed. Manuscript ready for submission.
+All sections revised to proper academic prose. Manuscript ready for submission.
