@@ -28,14 +28,15 @@ The present scoping review has two primary aims:
 
 **Aim 1: Update and verify the structural brain evidence.** Building on Koster et al.'s foundation, we incorporate recently published studies (representing a 33% increase to the gray matter evidence base) to verify whether findings remain consistent and to provide a focused synthesis of T1-weighted gray matter morphometry in diagnosed schizophrenia.
 
-**Aim 2: Systematically assess the psychological flexibility gap.** We explicitly evaluate whether any structural MRI study of smoking in schizophrenia has measured psychological flexibility or related ACT constructs, thereby confirming or refuting this as a genuine research gap.
+**Aim 2: Scope the fMRI evidence on psychological flexibility.** We systematically review the functional neuroimaging literature examining psychological flexibility and ACT interventions in addiction contexts, identifying which brain regions show functional correlates of this construct.
 
-Secondary aims include:
-- Examining the relationship between brain structure and symptom severity in the context of smoking
-- Comparing findings in diagnosed schizophrenia with clinical high-risk populations (Koster et al., 2025b)
-- Providing the empirical foundation for a primary study investigating brain structure, psychological flexibility, and smoking in schizophrenia
+**Aim 3: Assess the psychological flexibility gap in structural research.** We explicitly evaluate whether any structural MRI study of smoking in schizophrenia has measured psychological flexibility or related ACT constructs, thereby confirming or refuting this as a genuine research gap.
 
-By explicitly focusing on psychological flexibility as the central question, this scoping review moves beyond cataloguing structural findings to addressing *why* these findings matter and *what mechanism* might link brain structure to smoking behavior in schizophrenia.
+**Aim 4: Establish the regional convergence.** By comparing brain regions implicated in fMRI studies of psychological flexibility with those showing structural differences in smoking schizophrenia patients, we provide empirical justification for investigating psychological flexibility as a mechanism linking brain structure to smoking behavior.
+
+Secondary aims include examining the relationship between brain structure and symptom severity, and comparing findings in diagnosed schizophrenia with clinical high-risk populations (Koster et al., 2025b).
+
+This scoping review is novel in its systematic bridging of two previously unconnected literatures: (1) functional neuroimaging of psychological flexibility/ACT, and (2) structural neuroimaging of smoking in schizophrenia. By demonstrating regional overlap between these domains, we provide the empirical foundation for a primary study investigating brain structure, psychological flexibility, and smoking in schizophrenia.
 
 ---
 
