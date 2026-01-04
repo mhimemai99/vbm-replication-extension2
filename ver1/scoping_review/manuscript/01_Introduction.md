@@ -1,50 +1,41 @@
-# Introduction
+# Why Psychological Flexibility Matters for Understanding Smoking in Schizophrenia: A Scoping Review of Structural Brain Evidence
 
-## The Burden of Tobacco Use in Schizophrenia
+## Introduction
 
-Tobacco smoking remains disproportionately prevalent among individuals with schizophrenia. A seminal meta-analysis by de Leon and Diaz (2005) synthesizing 42 studies across 20 nations demonstrated that individuals with schizophrenia are significantly more likely to smoke than the general population, with a weighted odds ratio of 5.9 (95% CI: 4.9–5.7). More recent estimates consistently place smoking prevalence between 60–70% in schizophrenia populations, approximately two to three times higher than age-matched controls. This elevated smoking rate is not merely a lifestyle factor—it contributes substantially to the reduced life expectancy observed in schizophrenia, with cardiovascular and respiratory diseases accounting for a significant portion of excess mortality.
+### The Clinical Puzzle
 
-## Prevailing Explanations for Elevated Smoking Rates
+Tobacco smoking remains disproportionately prevalent among individuals with schizophrenia, with rates two to three times higher than the general population (de Leon & Diaz, 2005). This elevated smoking rate contributes substantially to reduced life expectancy in schizophrenia, yet the mechanisms underlying this association remain incompletely understood. Prevailing explanations—including the self-medication hypothesis (Winterer, 2010) and addiction vulnerability models—provide partial accounts but leave important questions unanswered. Why do some individuals with schizophrenia smoke while others do not? What psychological processes maintain smoking behavior despite known health consequences? And critically, might there be modifiable mechanisms that could inform more effective interventions?
 
-Several hypotheses have been proposed to explain the high prevalence of smoking in schizophrenia. The self-medication hypothesis, extensively reviewed by Winterer (2010), posits that individuals with schizophrenia smoke to ameliorate cognitive deficits, particularly attentional impairments. According to this framework, nicotine's stimulation of the brain's dopaminergic system normalizes sensory processing deficits associated with schizophrenia, including prepulse inhibition and eye-tracking abnormalities. However, the evidence supporting this hypothesis remains incomplete. A critique by Manzella et al. (2015) noted that cognitive benefits of smoking appear modest and do not specifically remediate functions disproportionately impaired in schizophrenia. Furthermore, the high prevalence of smoking in first-episode and prodromal patients—before extended antipsychotic exposure—suggests that medication side-effect relief cannot fully account for smoking behavior.
+### Psychological Flexibility: A Promising but Unexplored Mechanism
 
-An alternative framework, the addiction vulnerability hypothesis, proposes that neurobiological dysfunctions common to both schizophrenia and tobacco use disorder increase susceptibility to nicotine's rewarding effects. This perspective emphasizes shared neural substrates rather than symptom-specific self-treatment, though these explanations are not mutually exclusive.
+Psychological flexibility—the capacity to remain present, accept difficult internal experiences, and engage in value-consistent action—offers a compelling framework for understanding smoking behavior in schizophrenia. This core construct from Acceptance and Commitment Therapy (ACT) encompasses processes such as acceptance, cognitive defusion, and committed action that are directly relevant to addictive behavior.
 
-## Structural Brain Abnormalities: A Potential Link
+Three converging lines of evidence suggest psychological flexibility warrants investigation in this context:
 
-Structural magnetic resonance imaging (sMRI) has revealed consistent gray matter abnormalities in schizophrenia. Meta-analyses of voxel-based morphometry (VBM) studies report gray matter deficits in frontal, temporal, cingulate, and insular cortices, as well as the thalamus, when comparing individuals with schizophrenia to healthy controls. These structural differences have been associated with symptom severity, cognitive impairment, and functional outcomes.
+**First, behavioral evidence**: Individuals with schizophrenia demonstrate significantly lower psychological flexibility compared to healthy controls, as measured by instruments such as the Acceptance and Action Questionnaire-II (AAQ-II). Psychological inflexibility—characterized by experiential avoidance and cognitive fusion—is associated with greater psychiatric symptom severity and poorer functional outcomes. Importantly, ACT interventions targeting psychological flexibility have proven effective for both smoking cessation (RR = 1.42; Fan et al., 2025) and symptom improvement in schizophrenia.
 
-A growing body of literature has examined whether smoking status modulates these structural brain findings in schizophrenia. Several studies have reported differences in gray matter volume or cortical thickness between smokers and non-smokers with schizophrenia, implicating regions including the prefrontal cortex, hippocampus, anterior cingulate cortex, and insula. However, the direction and interpretation of these findings remain inconsistent. Early work by Tregellas et al. (2007) suggested that smoking might confer a "protective" effect, with smokers showing greater gray matter in certain prefrontal and temporal regions. In contrast, more recent studies by Schneider et al. (2014) and Jørgensen et al. (2015) reported reduced gray matter in smokers with schizophrenia compared to non-smokers. These discrepancies may reflect methodological heterogeneity, sample characteristics, or the complex interactions between smoking, medication, and disease progression.
+**Second, functional neuroimaging evidence**: Recent fMRI research has begun to identify neural correlates of psychological flexibility. A 2025 resting-state fMRI study found that greater psychological flexibility was associated with altered connectivity patterns involving the default mode network and frontoparietal regions. ACT intervention studies have reported treatment-related changes in the anterior cingulate cortex (ACC), insula, and prefrontal cortex—regions critical for self-regulation and decision-making.
 
-## The Unexplored Role of Psychological Flexibility
+**Third, structural brain evidence**: A growing literature has examined whether smoking status is associated with gray matter differences in schizophrenia. Notably, the brain regions consistently implicated in this literature—hippocampus, ACC, insula, and prefrontal cortex—substantially overlap with those showing functional correlates of psychological flexibility. This regional convergence suggests a testable hypothesis: structural differences in these regions may relate to psychological flexibility, which in turn influences smoking behavior.
 
-Beyond cognitive self-medication and neurobiological vulnerability, psychological processes may contribute to the maintenance of smoking behavior in schizophrenia. Psychological flexibility—a core construct from Acceptance and Commitment Therapy (ACT)—refers to the capacity to remain present, accept difficult internal experiences without avoidance, and engage in value-consistent action. This construct encompasses processes such as acceptance, cognitive defusion, mindful awareness, and committed action.
+### The Current State of Structural Brain Evidence
 
-Psychological flexibility has emerged as a clinically relevant target in both schizophrenia and smoking cessation research. Studies have demonstrated that individuals with schizophrenia exhibit significantly lower psychological flexibility compared to healthy controls, as measured by instruments such as the Acceptance and Action Questionnaire-II (AAQ-II) and Cognitive Fusion Questionnaire (CFQ). Importantly, psychological inflexibility—characterized by experiential avoidance and cognitive fusion—is associated with greater psychiatric symptom severity and poorer functional outcomes.
+Koster et al. (2025a) recently published a comprehensive systematic review of MRI studies examining tobacco smoking and brain alterations in schizophrenia, including 6 gray matter and 2 DTI structural studies alongside 14 functional studies. Their review concluded that smoking is associated with "widespread independent and additive reductions in gray matter" in schizophrenia. However, their search ended in June 2023, and additional studies have since been published. Furthermore, their review did not assess whether any study had examined psychological flexibility—a question central to understanding the mechanisms underlying the smoking-brain relationship.
 
-ACT interventions targeting psychological flexibility have shown efficacy in both populations. A 2025 meta-analysis found that ACT significantly increases smoking cessation rates compared to active comparators (RR = 1.42, 95% CI: 1.07–1.89 at short-term follow-up). Randomized controlled trials have also demonstrated that ACT improves symptoms and functioning in schizophrenia, with emerging evidence specifically examining ACT for smoking cessation in this population.
+### Aims of This Scoping Review
 
-Functional neuroimaging research has begun to reveal the neural correlates of psychological flexibility. A 2025 resting-state fMRI study found that greater psychological flexibility, measured by AAQ-II, was associated with stronger anticorrelation between the default mode network (DMN) and dorsal attention network (DAN)—connectivity patterns implicated in adaptive cognitive functioning. ACT intervention studies have reported treatment-related changes in the anterior cingulate cortex, insula, and prefrontal regions—precisely the brain areas consistently implicated in sMRI studies of smoking in schizophrenia.
+The present scoping review has two primary aims:
 
-This regional overlap suggests a testable hypothesis: structural differences in prefrontal, cingulate, and insular regions observed in schizophrenia smokers may relate to psychological flexibility, which in turn influences smoking behavior. However, our preliminary searches indicate that no study has yet examined psychological flexibility in relation to brain structure in any population, representing a significant gap in the literature.
+**Aim 1: Update and verify the structural brain evidence.** Building on Koster et al.'s foundation, we incorporate recently published studies (representing a 33% increase to the gray matter evidence base) to verify whether findings remain consistent and to provide a focused synthesis of T1-weighted gray matter morphometry in diagnosed schizophrenia.
 
-## Aims of This Scoping Review
+**Aim 2: Systematically assess the psychological flexibility gap.** We explicitly evaluate whether any structural MRI study of smoking in schizophrenia has measured psychological flexibility or related ACT constructs, thereby confirming or refuting this as a genuine research gap.
 
-Given the heterogeneity of findings and the potential role of psychological flexibility as an unexplored mechanism, a systematic mapping of the existing evidence is warranted. Scoping reviews are particularly suited for clarifying concepts, identifying knowledge gaps, and informing future research directions.
+Secondary aims include:
+- Examining the relationship between brain structure and symptom severity in the context of smoking
+- Comparing findings in diagnosed schizophrenia with clinical high-risk populations (Koster et al., 2025b)
+- Providing the empirical foundation for a primary study investigating brain structure, psychological flexibility, and smoking in schizophrenia
 
-Following the methodological framework developed by Arksey and O'Malley (2005) and refined by Peters et al. (2020) for the Joanna Briggs Institute, this scoping review aims to:
-
-1. **Map the existing sMRI literature** examining brain structural differences between smokers and non-smokers with schizophrenia, schizoaffective disorder, or schizophreniform disorder.
-
-2. **Synthesize findings by brain region** to identify consistent patterns in the direction and localization of smoking-related structural differences.
-
-3. **Examine the relationship between brain structure and symptom severity** in the context of smoking status.
-
-4. **Assess whether psychological flexibility has been measured** in any sMRI study of smoking in schizophrenia, thereby confirming the hypothesized research gap.
-
-5. **Provide the foundation for a primary study** that would be the first to investigate the relationship between brain structure, smoking, and psychological flexibility in schizophrenia.
-
-By systematically evaluating the current state of knowledge and explicitly identifying gaps, this scoping review contributes to theoretical understanding while providing empirical justification for extending research into the psychological flexibility domain.
+By explicitly focusing on psychological flexibility as the central question, this scoping review moves beyond cataloguing structural findings to addressing *why* these findings matter and *what mechanism* might link brain structure to smoking behavior in schizophrenia.
 
 ---
 
@@ -54,22 +45,16 @@ By systematically evaluating the current state of knowledge and explicitly ident
 
 2. Winterer G (2010). Why do patients with schizophrenia smoke? *Current Opinion in Psychiatry*, 23(2):112-119. PMID: 20051860. https://pubmed.ncbi.nlm.nih.gov/20051860/
 
-3. Manzella F, Maloney SE, Taylor GT (2015). Smoking in schizophrenic patients: A critique of the self-medication hypothesis. *World Journal of Psychiatry*, 5(1):35-46. PMID: 25815253. https://pmc.ncbi.nlm.nih.gov/articles/PMC4369547/
+3. Fan L, Wang L, Li F, et al. (2025). Efficacy of Acceptance and Commitment Therapy for smoking cessation: A systematic review and meta-analysis. *Worldviews on Evidence-Based Nursing*. https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/wvn.70086
 
-4. Glahn DC, Laird AR, Ellison-Wright I, et al. (2008). Meta-analysis of gray matter anomalies in schizophrenia: application of anatomic likelihood estimation and network analysis. *Biological Psychiatry*, 64(9):774-781. PMID: 18486104. https://pubmed.ncbi.nlm.nih.gov/18486104/
+4. Koster M, Mannsdörfer L, van der Pluijm M, de Haan L, Ziermans T, van Wingen G, Vermeulen J (2025a). The association between chronic tobacco smoking and brain alterations in schizophrenia: A systematic review of magnetic resonance imaging studies. *Schizophrenia Bulletin*, 51(3):608-624. PMID: 38824451. https://pubmed.ncbi.nlm.nih.gov/38824451/
 
-5. Tregellas JR, Shatti S, Tanabe JL, et al. (2007). Gray matter volume differences and the effects of smoking on gray matter in schizophrenia. *Schizophrenia Research*, 97(1-3):242-249. PMID: 17890058. https://pubmed.ncbi.nlm.nih.gov/17890058/
+5. Koster M, van der Pluijm M, Fraikin M, et al. (2025b). Tobacco smoking and gray matter volume in individuals at clinical high risk for psychosis: A longitudinal magnetic resonance imaging study. *Biological Psychiatry: Global Open Science*, 5(4):100539. https://www.sciencedirect.com/science/article/pii/S266717432500093X
 
-6. Schneider CE, White T, Hass J, et al. (2014). Smoking status as a potential confounder in the study of brain structure in schizophrenia. *Journal of Psychiatric Research*, 50:84-91. PMID: 24373929. https://pubmed.ncbi.nlm.nih.gov/24373929/
+6. Arksey H, O'Malley L (2005). Scoping studies: towards a methodological framework. *International Journal of Social Research Methodology*, 8(1):19-32. https://doi.org/10.1080/1364557032000119616
 
-7. Jørgensen KN, Nesvåg R, Nerland S, et al. (2015). Cigarette smoking is associated with thinner cingulate and insular cortices in patients with severe mental illness. *Journal of Psychiatry and Neuroscience*, 40(4):241-249. PMID: 25672482. https://pubmed.ncbi.nlm.nih.gov/25672482/
-
-8. Fan L, Wang L, Li F, et al. (2025). Efficacy of Acceptance and Commitment Therapy for smoking cessation: A systematic review and meta-analysis. *Worldviews on Evidence-Based Nursing*. https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/wvn.70086
-
-9. Arksey H, O'Malley L (2005). Scoping studies: towards a methodological framework. *International Journal of Social Research Methodology*, 8(1):19-32. https://doi.org/10.1080/1364557032000119616
-
-10. Peters MDJ, Godfrey C, McInerney P, et al. (2020). Chapter 11: Scoping Reviews. In: Aromataris E, Munn Z (Editors). *JBI Manual for Evidence Synthesis*. JBI. https://jbi-global-wiki.refined.site/space/MANUAL/355862533
+7. Peters MDJ, Godfrey C, McInerney P, et al. (2020). Chapter 11: Scoping Reviews. In: Aromataris E, Munn Z (Editors). *JBI Manual for Evidence Synthesis*. JBI. https://jbi-global-wiki.refined.site/space/MANUAL/355862533
 
 ---
 
-*Draft version - awaiting confirmation before proceeding to Methods section*
+*Draft version - revised with psychological flexibility as central focus*
