@@ -129,25 +129,34 @@ Two recent publications by Koster and colleagues provide important context for i
 
 ### Koster et al. 2025 (Schizophrenia Bulletin) - Systematic Review
 
-Koster et al. (2025a) published a systematic review examining the association between chronic tobacco smoking and brain alterations in schizophrenia, including both structural and functional MRI studies. Their review included 8 structural and 14 functional studies.
+Koster et al. (2025a) published a systematic review examining the association between chronic tobacco smoking and brain alterations in schizophrenia, including structural, functional, and neurochemical MRI studies. Their review searched databases from inception to June 7, 2023 (with reference tracking to February 2024) and included 8 structural studies (6 gray matter + 2 DTI) and 14 functional studies.
 
-**Table 4. Comparison with Koster et al. (2025a) Systematic Review**
+**Table 4. Detailed Comparison with Koster et al. (2025a) Systematic Review**
 
 | Feature | Present Scoping Review | Koster et al. (2025a) |
 |---------|----------------------|----------------------|
-| **Focus** | Structural MRI only | Structural + Functional MRI |
-| **Population** | Diagnosed SZ/SZA/SZF | Schizophrenia spectrum disorders |
-| **Structural studies included** | 8 | 8 |
-| **DTI included** | No (excluded) | Yes |
+| **Focus** | T1-weighted structural MRI only | Structural + Functional + Neurochemical MRI |
+| **Population criteria** | SZ, schizoaffective, schizophreniform | SSD (SZ, SZA, SZF, psychotic disorder NOS) |
+| **Bipolar included** | **No** | **Yes** (Jørgensen study included BP patients) |
+| **Gray matter studies** | **8** | **6** |
+| **DTI studies** | **0** (excluded) | **2** (Cullen, Zhang) |
+| **Search end date** | 2024 (includes Qiu 2024, Musket 2026) | June 2023 |
 | **Psychological flexibility** | Explicitly assessed (gap confirmed) | Not assessed |
 | **Symptom correlations** | Explicitly extracted | Not primary focus |
-| **Key structural finding** | Smoking associated with GMV reductions | "Widespread independent and additive reductions in gray matter" |
 
-Both reviews converge on the conclusion that smoking is associated with gray matter reductions in schizophrenia, particularly in prefrontal, cingulate, and temporal regions. However, our scoping review extends beyond Koster et al. by:
-1. Explicitly excluding DTI to focus on gray matter morphometry
-2. Systematically assessing the psychological flexibility gap
-3. Prioritizing within-diagnosis smoking comparisons over general smoking effects
-4. Extracting symptom severity correlations as a secondary outcome
+**Overlapping gray matter studies (6):** Tregellas 2007, Van Haren 2010, Schneider 2014, Jørgensen 2015, Yokoyama 2018, Ringin 2022.
+
+**Studies unique to our review (2):** Qiu et al. (2024) and Musket et al. (2026) were published after Koster et al.'s search period.
+
+**Studies in Koster but excluded from ours (2):** Cullen et al. (DTI) and Zhang et al. (DTI) were excluded from our review as DTI measures white matter microstructure rather than gray matter morphometry.
+
+Both reviews converge on the conclusion that smoking is associated with gray matter reductions in schizophrenia, particularly in prefrontal, cingulate, insular, and hippocampal regions. However, our scoping review extends beyond Koster et al. by:
+1. Focusing exclusively on gray matter morphometry (excluding DTI)
+2. Including two additional recent studies (Qiu 2024, Musket 2026)
+3. Applying stricter diagnostic criteria (excluding studies with bipolar patients)
+4. Systematically assessing the psychological flexibility gap
+5. Prioritizing within-diagnosis smoking comparisons over general smoking effects
+6. Extracting symptom severity correlations as a secondary outcome
 
 ### Koster et al. 2025 (Biological Psychiatry: Global Open Science) - CHR Study
 
