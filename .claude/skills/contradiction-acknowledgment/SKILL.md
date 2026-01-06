@@ -1,6 +1,6 @@
 ---
 name: contradiction-acknowledgment
-description: Explicitly acknowledging when findings contradict each other rather than glossing over inconsistencies. Use when studies show opposite results or conflicting evidence.
+description: Explicitly acknowledging when findings contradict each other rather than glossing over inconsistencies. Use when studies show opposite results or conflicting evidence. Works with due-diligence-research to find conflicting sources and citation-needed-check to ensure contradictions are properly cited.
 ---
 
 # Contradiction Acknowledgment
@@ -14,6 +14,14 @@ Scientific literature often contains contradictory findings. Acknowledge these e
 - Earlier and later studies disagree
 - Effect sizes vary substantially
 - Any inconsistency in the literature
+- Reviewing drafts for cherry-picking
+
+## Related Skills
+
+- **due-diligence-research**: Find both supporting and contradicting evidence
+- **citation-needed-check**: Ensure contradictory findings are properly cited
+- **cross-literature-comparison**: When literatures show different patterns
+- **academic-prose-writing**: Express contradictions in proper prose
 
 ## Why It Matters
 

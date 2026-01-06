@@ -1,6 +1,6 @@
 ---
 name: reference-management-apa
-description: Creating and managing reference lists in APA 7th edition format with proper citation formatting. Use when creating or organizing academic references.
+description: Creating and managing reference lists in APA 7th edition format with proper citation formatting. Use when creating or organizing academic references. Works with citation-needed-check to add new references and data-honesty-check to verify sources are real.
 ---
 
 # Reference Management (APA 7th Edition)
@@ -14,6 +14,13 @@ Create properly formatted reference lists following APA 7th edition guidelines.
 - Organizing references alphabetically
 - Adding DOIs and URLs
 - Converting references between formats
+
+## Related Skills
+
+- **citation-needed-check**: Identify where citations are needed, then format them here
+- **due-diligence-research**: Find sources, then format them here
+- **data-honesty-check**: Verify all references are real and accessible
+- **scoping-review-methodology**: Reference lists for systematic reviews
 
 ## APA 7th Edition Basics
 

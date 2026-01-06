@@ -1,83 +1,119 @@
 ---
 name: literature-gap-identification
-description: Systematically identifying what is MISSING in a body of literature, not just what exists. Use for scoping reviews, gap analyses, or justifying new research.
+description: Systematically identifying what is MISSING in a body of literature, not just what exists. Use for scoping reviews, gap analyses, or justifying new research. Grounded in systematic review methodology (JBI, Cochrane). Often used with scoping-review-methodology and due-diligence-research.
 ---
 
 # Literature Gap Identification
 
-The primary output of scoping reviews is identifying what's absent, not summarizing what's present.
+The most valuable contribution of a scoping review is often identifying what's absent, not summarizing what's present. This skill helps systematically identify and articulate gaps in any body of literature.
 
 ## When to Use
 
-- Conducting scoping review
+- Conducting scoping or systematic review
 - Justifying need for new study
-- Writing research rationale
+- Writing research rationale or grant application
 - Identifying future research directions
 - Assessing completeness of a field
+- Writing "Gaps in the Literature" sections
 
-## Core Principle
+## Related Skills
 
-**Focus on absence, not presence.** The most valuable finding is often what NO study has done.
+- **scoping-review-methodology**: Framework for systematic gap identification
+- **due-diligence-research**: Finding evidence to characterize gaps
+- **cross-literature-comparison**: Identifying gaps between fields
+- **reference-management-apa**: Documenting sources reviewed
+
+## Methodological Grounding
+
+Gap identification should follow systematic methods:
+- JBI Scoping Review methodology (Peters et al., 2020)
+- Cochrane systematic review standards
+- PRISMA reporting guidelines
+
+> "Scoping reviews are useful for examining emerging evidence when it is still unclear what other, more specific questions can be posed" (Munn et al., 2018)
 
 ## Types of Gaps
 
 ### 1. Population Gaps
-No studies in specific populations:
-- "No study has examined X in schizophrenia"
-- "All studies used healthy adults"
-- "Pediatric populations unstudied"
+Studies missing in specific groups:
+- Demographic: age, gender, ethnicity
+- Clinical: specific diagnoses, comorbidities, severity levels
+- Geographic: countries, settings (urban/rural)
+
+**Example:** "No study has examined [intervention] in [population]"
 
 ### 2. Methodological Gaps
-Missing methods or approaches:
-- "No study combined fMRI with sMRI"
-- "All studies cross-sectional; no longitudinal data"
-- "No RCTs, only observational"
+Missing approaches or designs:
+- Study design: RCTs vs observational, longitudinal vs cross-sectional
+- Methods: specific techniques, measurements
+- Analysis: statistical approaches
+
+**Example:** "All studies were cross-sectional; no longitudinal data exist"
 
 ### 3. Measurement Gaps
-Constructs not measured:
-- "No study measured psychological flexibility"
-- "Smoking characterized only as yes/no"
-- "No validated instruments used"
+Constructs or outcomes not assessed:
+- Missing validated instruments
+- Outcomes not measured
+- Timepoints not captured
 
-### 4. Conceptual Gaps
-Missing theoretical connections:
-- "These literatures have never been bridged"
-- "No study tested this proposed mechanism"
-- "The relationship between X and Y unexplored"
+**Example:** "No study used [validated measure] to assess [construct]"
 
-### 5. Geographic/Cultural Gaps
-Limited settings:
-- "All studies from Western countries"
-- "No low/middle-income country data"
+### 4. Conceptual/Theoretical Gaps
+Missing connections or frameworks:
+- Theories not tested
+- Mechanisms not examined
+- Literatures not bridged
+
+**Example:** "The relationship between [A] and [B] has not been directly examined"
+
+### 5. Replication Gaps
+Insufficient confirmation:
+- Single studies needing replication
+- Findings not tested in different contexts
+- Small samples needing larger confirmation
 
 ## Gap Identification Process
 
-### Step 1: Create Inventory Matrix
+### Step 1: Create Evidence Matrix
+
+Systematically map what exists:
 
 | Study | Pop A | Pop B | Method 1 | Method 2 | Measure X | Measure Y |
 |-------|-------|-------|----------|----------|-----------|-----------|
-| Smith | ✓ | - | ✓ | - | - | ✓ |
-| Jones | - | ✓ | ✓ | - | - | - |
-| Lee | ✓ | - | - | ✓ | - | ✓ |
+| Smith 2020 | ✓ | - | ✓ | - | - | ✓ |
+| Jones 2021 | - | ✓ | ✓ | - | - | - |
+| Lee 2022 | ✓ | - | - | ✓ | - | ✓ |
+| **Coverage** | 2/3 | 1/3 | 2/3 | 1/3 | 0/3 | 2/3 |
 
 ### Step 2: Identify Empty Cells
 
-Look for columns with all "-" or rows with critical missing elements.
+Look for:
+- Columns with all "-" (no studies at all)
+- Rows with critical missing elements
+- Intersections never examined
 
-### Step 3: Prioritize Gaps
+### Step 3: Verify Gap Is Real
 
-Not all gaps are equally important. Prioritize by:
-- Relevance to research question
-- Feasibility of addressing
-- Impact if filled
+Before claiming a gap:
+1. Search specifically for the missing element
+2. Check if gap is acknowledged in existing reviews
+3. Confirm with different search terms
+4. Note if gap is intentional (e.g., ethical constraints)
 
-### Step 4: Articulate the Gap
+### Step 4: Prioritize Gaps
+
+Not all gaps equally important. Prioritize by:
+- **Relevance**: How central to research question?
+- **Feasibility**: Can it realistically be addressed?
+- **Impact**: What would filling it contribute?
+
+### Step 5: Articulate the Gap
 
 **Weak gap statement:**
 > "More research is needed."
 
 **Strong gap statement:**
-> "No study has examined whether psychological flexibility relates to brain structure. All four fMRI studies measured function; all eight sMRI studies measured structure. This gap prevents conclusions about the brain-behavior relationship."
+> "No study has examined whether [specific construct] relates to [specific outcome]. All [N] studies measuring [construct] used [method A]; none combined this with [method B]. This gap prevents conclusions about [specific relationship]."
 
 ## The "Zero Studies" Finding
 
@@ -86,73 +122,96 @@ The most powerful gap identification:
 ```markdown
 ## Key Finding: Absence of Evidence
 
-A central aim was to determine whether any study had [specific question].
+A central aim was to determine whether any study had examined [specific question].
 
-**Finding: Zero studies** have [done the thing].
+**Finding:** Zero of [N] included studies examined [the thing].
 
-This represents a critical gap because:
-1. [Reason 1]
-2. [Reason 2]
-
-Addressing this gap would require:
-- [Specific study design needed]
-```
-
-## Presentation Formats
-
-### Table Format (Measure Presence)
-
-| Study | AAQ-II | CFQ | CompACT |
-|-------|--------|-----|---------|
+| Study | [Measure A] | [Measure B] | [Measure C] |
+|-------|-------------|-------------|-------------|
 | Study 1 | No | No | No |
 | Study 2 | No | No | No |
-| Study 3 | No | No | No |
+| ... | ... | ... | ... |
 
-*Note: Sometimes a table of "No" is powerful - but can also be stated in prose if redundant.*
+This absence represents a critical gap because:
+1. [Theoretical reason]
+2. [Clinical/practical reason]
 
-### Prose Format
-
-> "None of the eight included studies measured psychological flexibility using any validated instrument. This absence represents a gap: the relationship between brain structure and psychological flexibility remains unexamined."
-
-### Visual Format (Gap Map)
-
-```
-Literature A: [fMRI] ────── [psychological flexibility]
-                                    │
-                              GAP: No connection
-                                    │
-Literature B: [sMRI] ────── [smoking in schizophrenia]
+Addressing this gap requires:
+- [Specific study design]
+- [Specific measures]
 ```
 
-## Avoiding Over/Under-Claiming
+## Articulating Gaps in Academic Prose
 
-### Don't overclaim gaps:
-- Bad: "This is the first study to ever..."
-- Good: "To our knowledge, no study has..."
+### In Results Section
+> "None of the [N] included studies measured [construct] using [any validated instrument]. This represents a gap in the literature."
 
-### Don't dismiss gaps:
-- Bad: "Future research could possibly consider..."
-- Good: "This gap represents a research priority because..."
+### In Discussion Section
+> "The absence of [measurement/population/method] in the reviewed literature prevents conclusions about [relationship/mechanism]. Future research should address this gap by..."
 
-### Acknowledge uncertainty:
-- "We may have missed studies that..."
-- "Unpublished work may exist..."
+### In Implications Section
+> "This gap suggests a research priority. Studies combining [A] with [B] in [population] would determine whether..."
 
-## Gap → Research Priority
+## Grounding Gap Claims
 
-Transform gaps into actionable recommendations:
+Every gap claim should be verifiable:
 
-| Gap Identified | Research Priority |
-|----------------|-------------------|
-| No studies in population X | "Studies in X are needed" |
-| No studies combining A and B | "Future research should combine A with B" |
-| No longitudinal data | "Longitudinal studies would determine..." |
+**Ungrounded:**
+> "No studies have examined this."
+
+**Grounded:**
+> "Our systematic search of [N databases] from [dates] using [search strategy] identified [N] studies; none examined [specific thing] (see Table X)."
+
+## Common Pitfalls
+
+### Avoid:
+- Claiming gaps without systematic search
+- Overclaiming ("first ever to...")
+- Ignoring grey literature
+- Missing gaps in your own gaps analysis
+
+### Include:
+- Explicit search methodology
+- Table showing what's missing
+- Acknowledgment of search limitations
+- Specific recommendations for future research
+
+## Output Format
+
+```markdown
+## Gap Analysis: [Topic]
+
+### Systematic Approach
+[Brief note on how literature was searched]
+
+### Evidence Matrix
+[Table showing presence/absence of key elements]
+
+### Gaps Identified
+
+**Gap 1: [Type] Gap**
+- Description: [What's missing]
+- Evidence: [N] of [N] studies lacked [element]
+- Implication: [Why this matters]
+- Priority: [High/Medium/Low]
+
+**Gap 2: [Type] Gap**
+...
+
+### Summary
+[N] gaps identified. The most critical is [Gap X] because [reason].
+
+### Recommendations
+To address these gaps, future research should:
+1. [Specific recommendation]
+2. [Specific recommendation]
+```
 
 ## Guidelines
 
-- Gaps are findings, not failures
-- Empty cells in matrices are valuable
+- Gaps are findings, not failures of the literature
 - "Zero studies" can be a headline result
-- Connect gaps to implications
+- Always ground gap claims in systematic search
+- Connect gaps to actionable recommendations
 - Be specific about what's missing
-- Suggest how gaps could be filled
+- Acknowledge limitations of your own search

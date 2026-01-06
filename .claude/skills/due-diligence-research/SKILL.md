@@ -1,6 +1,6 @@
 ---
 name: due-diligence-research
-description: Finding academic evidence to support or challenge arguments using systematic web searches and synthesizing findings with grounded citations. Use when user needs to justify a methodological choice, argue a position, or understand scientific debate.
+description: Finding academic evidence to support or challenge arguments using systematic web searches and synthesizing findings with grounded citations. Use when user needs to justify a methodological choice, argue a position, or understand scientific debate. Often used with reference-management-apa for organizing citations and contradiction-acknowledgment when evidence conflicts.
 ---
 
 # Due Diligence Research
@@ -14,6 +14,14 @@ When a user needs to justify a methodological choice, argue a scientific positio
 - User questions whether a claim is valid and needs fact-checking
 - User needs to understand both sides of a scientific debate
 - User wants to frame a limitation or exclusion criterion positively
+- Any claim needs academic grounding
+
+## Related Skills
+
+- **reference-management-apa**: Format and organize citations found
+- **contradiction-acknowledgment**: When evidence conflicts
+- **positive-limitation-framing**: Frame findings to support methodological choices
+- **literature-gap-identification**: When research reveals gaps
 
 ## Process
 
@@ -22,75 +30,124 @@ Identify the core question that needs evidence:
 - What claim needs support?
 - What is the counter-argument or concern?
 - What would constitute convincing evidence?
+- What field/domain is this in?
 
 ### Step 2: Systematic Search
 Conduct multiple targeted searches:
-1. Search for evidence supporting the position
-2. Search for evidence against (to understand counter-arguments)
-3. Search for authoritative reviews or consensus statements
-4. Search for recent developments that may change the landscape
 
-Use search terms that include:
-- Technical terminology from the field
-- Key author names if known
-- Recent year filters for emerging evidence
+```
+Search 1: [core concept] + [supporting evidence]
+Search 2: [core concept] + [counter-argument/criticism]
+Search 3: [core concept] + [review OR meta-analysis]
+Search 4: [core concept] + [recent developments] + [year]
+```
 
-### Step 3: Synthesize Findings
-Create a structured summary:
-- **Traditional/Established View**: What has been the consensus?
-- **Key Evidence**: What studies support/challenge this?
-- **Emerging Evidence**: What recent findings change the picture?
-- **Nuanced Position**: What is the most accurate current understanding?
+Use field-specific terminology:
+- Medical: MeSH terms, clinical terminology
+- Psychology: psychological constructs, validated measures
+- Neuroscience: brain regions, imaging modalities
+- Any field: key author names, seminal papers
 
-### Step 4: Strategic Framing
-Help user frame their position:
-- Acknowledge limitations honestly
-- Frame exclusions as methodological choices (not defensive)
-- Use language like "we focused on X because Y" rather than "we excluded X"
-- Cite specific studies to ground claims
+### Step 3: Evaluate Sources
 
-## Output Format
+**Strong sources:**
+- Peer-reviewed journal articles
+- Systematic reviews / meta-analyses
+- Authoritative textbooks
+- Official guidelines (e.g., APA, JBI)
+
+**Weaker sources (use cautiously):**
+- Preprints (note status)
+- Conference abstracts
+- Websites (verify authority)
+- Opinion pieces
+
+### Step 4: Synthesize Findings
+
+Create structured summary with citations:
 
 ```markdown
 ## Research Summary: [Topic]
 
-### Traditional View
-[What has been believed/established]
+### Established Understanding
+[What has been the consensus, with citations]
+- Finding 1 (Author, Year)
+- Finding 2 (Author, Year)
 
-### Key Evidence
-| Source | Finding | Implication |
-|--------|---------|-------------|
-| Author (Year) | Finding | Supports/challenges X |
+### Counter-Evidence or Debate
+[What challenges this view, with citations]
+- Counter-finding (Author, Year)
 
-### Emerging Evidence
-[Recent developments]
+### Recent Developments
+[How the field is evolving]
+- New evidence (Author, Year)
 
 ### Synthesis
-[Balanced but strategic conclusion]
+[Balanced conclusion based on evidence weight]
 
-### Suggested Framing
-[How to write this in the manuscript]
-
-Sources:
-- [Citation 1](URL)
-- [Citation 2](URL)
+### Sources
+- Author, A. (Year). Title. *Journal*. URL
 ```
 
-## Example Application
+### Step 5: Strategic Application
 
-**User asks**: "Why exclude DTI from our structural review?"
+Help user apply findings:
+- **If supporting a choice**: "Evidence suggests X (Author, Year), which supports..."
+- **If acknowledging limitation**: "Although Y has been reported (Author, Year), our approach..."
+- **If debate exists**: "While some argue X (Author1), others find Y (Author2)..."
 
-**Process**:
-1. Search: "DTI white matter microstructure what does it measure"
-2. Search: "fMRI BOLD signal gray matter white matter"
-3. Search: "white matter BOLD fMRI neural origin controversy"
-4. Synthesize: DTI measures white matter, fMRI BOLD primarily gray matter
-5. Frame: "We focused on gray matter to maintain tissue-type correspondence with the fMRI literature"
+## Quality Standards
+
+### All Claims Must Be Grounded
+Every factual claim needs a citation:
+- ❌ "BOLD signal is generated in gray matter"
+- ✓ "BOLD signal is generated predominantly in gray matter (Logothetis et al., 2001)"
+
+### Acknowledge Uncertainty
+- "Evidence suggests..." not "Evidence proves..."
+- "Several studies report..." not "All studies show..."
+- Note sample sizes, replication status
+
+### Be Honest About Evidence Quality
+- Note if evidence is limited
+- Acknowledge conflicting findings
+- State when something is debated
+
+## Output Format
+
+```markdown
+## Due Diligence: [Question]
+
+### Question Addressed
+[Clear statement of what needed evidence]
+
+### Evidence Found
+
+**Supporting [Position A]:**
+- [Finding] (Author, Year) - [Brief note on study]
+
+**Supporting [Position B] / Counter-evidence:**
+- [Finding] (Author, Year) - [Brief note on study]
+
+**Reviews/Meta-analyses:**
+- [Summary] (Author, Year)
+
+### Synthesis
+[Balanced conclusion]
+
+### Recommended Framing for Manuscript
+> "[Suggested text with inline citations]"
+
+### Full References
+[APA format list]
+```
 
 ## Guidelines
 
-- Always provide citations with URLs when possible
-- Acknowledge counter-evidence honestly
-- Frame strategically but not deceptively
-- Use "balanced but pro" framing - acknowledge limitations while supporting the choice
-- Avoid defensive language ("we excluded because") in favor of positive framing ("we focused on")
+- Always search for BOTH supporting and opposing evidence
+- Provide citations with URLs when possible
+- Acknowledge when evidence is limited or conflicting
+- Use hedged language ("suggests", "indicates")
+- Frame strategically but honestly
+- Verify sources are real and accessible
+- Note publication year - recent vs dated
