@@ -1,0 +1,263 @@
+% Scoping Review Manuscript - LaTeX Version
+% This file can be adapted to different journal templates by changing the documentclass
+% and adding journal-specific packages
+
+\documentclass[12pt]{article}
+
+% ============================================
+% PACKAGES - Essential for academic manuscripts
+% ============================================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}       % Professional tables
+\usepackage{natbib}         % Citations (use \citep{} and \citet{})
+\usepackage{hyperref}       % Clickable links
+\usepackage{setspace}       % Line spacing
+\usepackage{geometry}       % Page margins
+\usepackage{longtable}      % Tables spanning pages
+\usepackage{array}          % Better column formatting
+
+% ============================================
+% DOCUMENT SETTINGS
+% ============================================
+\geometry{margin=1in}
+\doublespacing
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% ============================================
+% DOCUMENT BEGINS
+% ============================================
+\begin{document}
+
+% --------------------------------------------
+% TITLE PAGE
+% --------------------------------------------
+\title{Bridging Psychological Flexibility and Smoking in Schizophrenia: A Scoping Review Identifying Gaps in Neuroimaging Research}
+
+\author{
+    Author One\textsuperscript{1} \and
+    Author Two\textsuperscript{2}
+}
+
+\date{}
+\maketitle
+
+\begin{center}
+\textsuperscript{1}Department of Psychology, University Name, City, Country\\
+\textsuperscript{2}Department of Psychiatry, University Name, City, Country
+\end{center}
+
+\vspace{1cm}
+
+\textbf{Corresponding Author:}\\
+Author One\\
+Email: author@university.edu
+
+\newpage
+
+% --------------------------------------------
+% ABSTRACT
+% --------------------------------------------
+\begin{abstract}
+[Abstract to be added]
+\end{abstract}
+
+\textbf{Keywords:} psychological flexibility, schizophrenia, smoking, neuroimaging, scoping review
+
+\newpage
+
+% ============================================
+% INTRODUCTION
+% ============================================
+\section{Introduction}
+
+Tobacco smoking remains disproportionately prevalent among individuals with schizophrenia, with rates two to three times higher than the general population \citep{deleon2005}. This elevated smoking rate contributes substantially to reduced life expectancy, accounting for approximately half of the mortality gap in women and one-third in men with severe mental illness \citep{chang2022}, yet the mechanisms underlying this association remain incompletely understood. Prevailing explanations---including the self-medication hypothesis \citep{winterer2010} and addiction vulnerability models---provide partial accounts but leave important questions unanswered. Why do some individuals with schizophrenia smoke while others do not? What psychological processes maintain smoking behavior despite known health consequences? And critically, might there be modifiable mechanisms that could inform more effective interventions?
+
+Psychological flexibility---the capacity to contact the present moment more fully as a conscious human being, and to change or persist in behavior when doing so serves valued ends \citep{hayes2006}---offers a potential framework for understanding smoking behavior in schizophrenia. This core construct from Acceptance and Commitment Therapy (ACT) encompasses processes such as acceptance, cognitive defusion, and committed action that are relevant to addictive behavior. Several lines of evidence suggest psychological flexibility warrants investigation in this context.
+
+Behavioral evidence demonstrates that individuals with schizophrenia exhibit lower psychological flexibility compared to healthy controls \citep{levin2024}. Psychological inflexibility---characterized by experiential avoidance and cognitive fusion---is associated with greater psychiatric symptom severity and poorer functional outcomes. A recent meta-analysis found that psychological inflexibility predicts substance use severity ($r \approx 0.34$; \citealp{chong2025}), and smoking-specific experiential avoidance predicts withdrawal severity and relapse \citep{farris2014}. ACT interventions targeting psychological flexibility have shown efficacy for both smoking cessation (RR = 1.42; \citealp{fan2025}) and symptom improvement in psychosis \citep{jansen2021}.
+
+A functional neuroimaging literature has begun to examine neural correlates of psychological flexibility and ACT interventions. Studies in this emerging area have reported treatment-related changes in regions including the anterior cingulate cortex (ACC), insula, posterior cingulate cortex (PCC), and prefrontal cortex \citep{smallwood2016, lee2023}. However, this literature has not been systematically mapped, and the extent to which different clinical populations have been examined remains unclear.
+
+Separately, a structural brain literature has examined whether smoking status is associated with gray matter differences in schizophrenia. Brain regions implicated include the hippocampus, ACC, insula, and prefrontal cortex. Whether the apparent overlap between regions identified in these two separate literatures reflects a meaningful relationship or simply the ubiquity of these regions in neuroimaging research remains unknown---no study has directly examined the relationship between brain structure and psychological flexibility.
+
+\citet{koster2025} recently published a comprehensive systematic review of MRI studies examining tobacco smoking and brain alterations in schizophrenia, including 6 gray matter and 2 DTI structural studies alongside 14 functional studies. Their review concluded that smoking is associated with ``widespread independent and additive reductions in gray matter'' in schizophrenia. However, their search ended in June 2023, and their review did not assess whether any study had examined psychological flexibility.
+
+The present scoping review has three aims. First, we systematically scope the functional neuroimaging literature examining psychological flexibility and ACT interventions to identify what is known about neural correlates and to confirm gaps in population coverage. Second, we systematically scope the structural MRI literature on smoking in schizophrenia, supplementing studies identified by \citet{koster2025} with more recent publications, and explicitly evaluate whether any study has measured psychological flexibility. Third, we compare brain regions across the fMRI and sMRI literatures to assess whether regional patterns suggest directions for future research, while acknowledging limitations of such cross-literature comparison.
+
+This scoping review aims to identify gaps in two previously unconnected literatures: functional neuroimaging of ACT processes and structural neuroimaging of smoking in schizophrenia. By mapping these literatures and their limitations, we clarify research priorities for investigating the potential relationship between brain structure, psychological flexibility, and smoking in schizophrenia.
+
+% ============================================
+% METHODS
+% ============================================
+\section{Methods}
+
+This scoping review was conducted following the Joanna Briggs Institute methodology for scoping reviews \citep{peters2020} and reported according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines \citep{tricco2018}. The protocol was developed a priori and is available from the corresponding author upon request.
+
+\subsection{Eligibility Criteria}
+
+Two separate literature searches were conducted: one for functional neuroimaging studies on psychological flexibility, and one for structural neuroimaging studies on smoking in schizophrenia. Eligibility criteria were developed using the Population, Concept, Context (PCC) framework.
+
+For the functional neuroimaging literature, eligible studies included adults with or without psychiatric diagnoses who underwent functional MRI examining either neural correlates of psychological flexibility (measured by the Acceptance and Action Questionnaire-II or related instruments) or brain changes following Acceptance and Commitment Therapy interventions. Both clinical and non-clinical samples were eligible, as were intervention and correlational designs.
+
+For the structural neuroimaging literature, eligible studies included adults aged 18 years or older with diagnosed schizophrenia, schizoaffective disorder, or schizophreniform disorder according to DSM or ICD criteria. Studies of clinical high-risk populations were excluded. Eligible studies compared smokers to non-smokers within schizophrenia samples using T1-weighted structural MRI, including voxel-based morphometry, FreeSurfer, or region-of-interest methods to measure gray matter volume, cortical thickness, or subcortical volumes. We focused specifically on gray matter outcomes because the existing fMRI literature on psychological flexibility has employed standard BOLD acquisition and analysis methods optimized for gray matter, where the hemodynamic response function is well-characterized. Although emerging research suggests BOLD signal changes may occur in white matter, these responses show reduced magnitudes, delayed onsets, and prolonged initial dips compared to gray matter \citep{grajauskas2019}, requiring distinct analytical approaches not used in the psychological flexibility literature to date. Restricting our structural review to gray matter therefore provides the most direct basis for structure-function comparison with the available functional literature. Accordingly, studies using only diffusion tensor imaging, positron emission tomography, single-photon emission computed tomography, or magnetic resonance spectroscopy were not included. Studies were limited to peer-reviewed, English-language publications with cross-sectional, longitudinal, or case-control designs.
+
+\subsection{Information Sources and Search Strategy}
+
+For the functional neuroimaging literature, PubMed and Google Scholar were searched in January 2026 using the following terms: (psychological flexibility OR acceptance commitment therapy OR ACT) AND (fMRI OR functional MRI OR neuroimaging OR neural correlates OR brain activation).
+
+For the structural neuroimaging literature, PubMed/MEDLINE, PsycINFO, Embase, and Web of Science were searched from inception to January 2026. The search strategy combined three concept blocks: schizophrenia spectrum disorders, tobacco smoking, and structural brain imaging. The full search strategy is available in Supplementary File 1. Reference lists of included studies were screened, and forward citation searching was conducted. The initial study set was derived from a recent systematic review by \citet{koster2025}, supplemented by searching for studies published after their search end date of June 2023.
+
+\subsection{Study Selection and Data Extraction}
+
+Studies were screened in two stages: title and abstract screening followed by full-text assessment. For the functional neuroimaging literature, data extracted included citation details, population characteristics, sample size, study design, imaging method, psychological flexibility measure used, brain regions or networks identified, and key findings. For the structural neuroimaging literature, data extracted included study characteristics, population demographics, smoking variables, imaging methods, brain regions analyzed, smoker versus non-smoker findings, and whether any psychological flexibility measure was included.
+
+\subsection{Analysis}
+
+To compare findings across the two literatures, brain regions identified in fMRI studies as correlates of psychological flexibility were compared with brain regions identified in sMRI studies as showing differences between smokers and non-smokers with schizophrenia. This comparison was conducted qualitatively. Consistent with scoping review methodology, formal quality assessment of included studies was not conducted. Results were synthesized narratively.
+
+% ============================================
+% RESULTS
+% ============================================
+\section{Results}
+
+\subsection{Study Selection}
+
+For the fMRI literature, database searching of PubMed and Google Scholar identified [X] records. After title/abstract screening, [X] full-text articles were assessed for eligibility. Four studies met inclusion criteria examining neural correlates of psychological flexibility or ACT interventions.
+
+For the sMRI literature, [X] records were identified through database searching (PubMed, PsycINFO, Embase, Web of Science). An additional [X] studies were identified from reference lists and the \citet{koster2025} systematic review. After removing duplicates, [X] unique records were screened. [X] full-text articles were assessed for eligibility, and eight studies met inclusion criteria. Five studies were excluded: two used diffusion tensor imaging only \citep{zhang2010, cullen2012}, and three examined clinical high-risk rather than diagnosed schizophrenia populations \citep{welch2010, stone2012}.
+
+\subsection{fMRI Studies on Psychological Flexibility}
+
+Four fMRI studies examined neural correlates of psychological flexibility or ACT interventions (Table~\ref{tab:fmri}). The combined sample across studies was 118 participants. Studies were heterogeneous in population, including patients with opioid addiction and chronic pain \citep{smallwood2016}, women with chronic musculoskeletal pain \citep{aytur2021}, patients with obsessive-compulsive disorder \citep{lee2023}, and healthy adults \citep{cho2025}. Three studies examined pre-post changes following ACT interventions, while one study used a cross-sectional correlational design. This heterogeneity limits the ability to draw firm conclusions about neural correlates of psychological flexibility.
+
+\begin{table}[htbp]
+\centering
+\caption{Characteristics of Included fMRI Studies}
+\label{tab:fmri}
+\begin{tabular}{p{3cm}p{3cm}cp{2.5cm}p{3cm}}
+\toprule
+Study & Population & N & Design & Brain Regions \\
+\midrule
+Smallwood et al. (2016) & Opioid addiction, chronic pain & 25 & RCT: 8-week ACT & ACC, insula, PCC, MFG \\
+Aytur et al. (2021) & Chronic pain (women) & 9 & Pre-post ACT & DMN, salience network \\
+Lee et al. (2023) & OCD & 42 & RCT: 8-week ACT & Insula, STG, IFG, PCC \\
+Cho et al. (2025) & Healthy adults & 42 & Cross-sectional & DMN, dorsal attention \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Several brain regions appeared across studies, though findings were not always consistent in direction. The insula was identified in two studies with opposite patterns: \citet{smallwood2016} found decreased insula activation following ACT, while \citet{lee2023} found increased bilateral insula activation and strengthened insula-inferior frontal gyrus connectivity. These opposing findings may reflect differences in population (chronic pain vs. OCD) or task paradigm. \citet{lee2023} reported that left insula activity correlated with psychological flexibility improvement ($\rho = -0.346$, $p = 0.036$). The anterior cingulate cortex was identified by \citet{smallwood2016} and \citet{aytur2021}, with the latter reporting that ACC connectivity changes correlated with AAQ-II improvement. The posterior cingulate cortex and related default mode network structures appeared in three studies, with \citet{lee2023} finding that PCC connectivity correlated with psychological flexibility improvement ($\rho = -0.488$, $p = 0.001$). At the network level, \citet{aytur2021} found reduced connectivity within the default mode, salience, and frontoparietal networks following ACT, while \citet{cho2025} found that greater psychological flexibility was associated with stronger anticorrelation between the default mode and dorsal attention networks.
+
+The fMRI literature on psychological flexibility remains sparse, with only four studies identified and sample sizes ranging from 9 to 42 participants. No fMRI study has examined psychological flexibility in schizophrenia or smoking populations, and no study has examined whether psychological flexibility relates to brain structure.
+
+\subsection{sMRI Studies on Smoking in Schizophrenia}
+
+Eight studies met inclusion criteria for the sMRI literature on smoking in schizophrenia (Table~\ref{tab:smri}).
+
+\begin{table}[htbp]
+\centering
+\caption{Characteristics of Included sMRI Studies}
+\label{tab:smri}
+\begin{tabular}{p{3.5cm}lcp{2cm}p{4cm}}
+\toprule
+Study & Country & N & Method & Brain Regions (direction) \\
+\midrule
+Tregellas et al. (2007) & USA & 64 & VBM & PFC ($\uparrow$), STG ($\uparrow$) \\
+Van Haren et al. (2010) & Netherlands & 209 & Automated & Progressive loss \\
+Schneider et al. (2014) & Germany & 189 & FreeSurfer & DLPFC ($\downarrow$), hippocampus ($\downarrow$) \\
+J{\o}rgensen et al. (2015) & Norway & 743 & FreeSurfer & ACC ($\downarrow$), insula ($\downarrow$) \\
+Yokoyama et al. (2018) & Japan & 100 & VBM & Left PFC ($\downarrow$) \\
+Ringin et al. (2022) & Australia & 534 & FreeSurfer & Diagnosis $\times$ smoking \\
+Qiu et al. (2024) & USA & Multi-site & Multimodal & Hippocampus, ACC, insula \\
+Musket et al. (2026) & USA & 506 & FreeSurfer & Hippocampus \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The hippocampus showed consistent reductions in smokers with schizophrenia across multiple studies. \citet{schneider2014} reported approximately 2.2\% lower hippocampal volume in smokers compared to non-smokers with schizophrenia, and this finding was supported by \citet{qiu2024} and \citet{musket2026}. The anterior cingulate cortex showed reduced thickness in smokers \citep{jorgensen2015, qiu2024}, as did the insula \citep{jorgensen2015, qiu2024}. Findings for the prefrontal cortex were mixed: \citet{tregellas2007} reported increased gray matter in smokers, whereas later studies with larger samples found reductions \citep{schneider2014, yokoyama2018}.
+
+Five of eight studies (63\%) reported interactions between diagnostic status and smoking on brain structure, suggesting that smoking may affect brain structure differently in individuals with schizophrenia compared to healthy populations. \citet{vanharen2010}, the only longitudinal study, found that heavy smoking was associated with accelerated gray matter loss over time.
+
+\subsection{Psychological Flexibility Measures in sMRI Studies}
+
+A key aim of this review was to determine whether any sMRI study of smoking in schizophrenia had measured psychological flexibility. None of the eight included studies measured psychological flexibility using the Acceptance and Action Questionnaire-II, Cognitive Fusion Questionnaire, Comprehensive Assessment of ACT Processes, or any related ACT construct. This absence represents a gap in the literature: the relationship between brain structure and psychological flexibility remains unexamined in any population.
+
+\subsection{Regional Overlap Across Literatures}
+
+Several brain regions appeared in both the fMRI literature on psychological flexibility and the sMRI literature on smoking in schizophrenia (Table~\ref{tab:overlap}). The anterior cingulate cortex, insula, and prefrontal cortex were identified in both literatures. However, this overlap should be interpreted cautiously. These regions are among the most frequently reported in neuroimaging research generally, appearing across diverse psychiatric conditions and cognitive processes. Whether the overlap reflects a meaningful relationship specific to psychological flexibility and smoking, or simply the ubiquity of these regions in neuroimaging findings, cannot be determined from cross-literature comparison alone.
+
+\begin{table}[htbp]
+\centering
+\caption{Brain Regions Across fMRI and sMRI Literatures}
+\label{tab:overlap}
+\begin{tabular}{lll}
+\toprule
+Brain Region & fMRI Studies & sMRI Studies \\
+\midrule
+ACC & Smallwood; Aytur & J{\o}rgensen; Qiu \\
+Insula & Smallwood; Lee & J{\o}rgensen; Qiu \\
+Prefrontal cortex & Smallwood; Lee & Schneider; Yokoyama \\
+PCC/DMN & Smallwood; Lee; Cho & --- \\
+Hippocampus & --- & Schneider; Qiu; Musket \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ============================================
+% DISCUSSION
+% ============================================
+\section{Discussion}
+
+\subsection{Summary of Evidence}
+
+This scoping review systematically examined two neuroimaging literatures to identify gaps and map current knowledge. The functional neuroimaging literature on psychological flexibility and ACT interventions remains sparse, with only four studies identified. These studies implicate various regions including the anterior cingulate cortex, insula, posterior cingulate cortex, and prefrontal cortex, though findings were heterogeneous across populations (chronic pain, OCD, healthy adults) and sometimes contradictory in direction. The structural neuroimaging literature on smoking in schizophrenia, comprising eight studies, demonstrates gray matter reductions in the hippocampus, anterior cingulate cortex, and insula among smokers compared to non-smokers. These two literatures have developed independently, with no study examining psychological flexibility in relation to brain structure.
+
+Several brain regions appeared in both literatures, including the anterior cingulate cortex, insula, and prefrontal cortex. However, this overlap must be interpreted cautiously given that these regions are among the most commonly reported in neuroimaging research across diverse conditions. Whether this overlap reflects a meaningful relationship specific to psychological flexibility and smoking, or the general prominence of these regions in brain research, cannot be determined without studies directly examining the relationship.
+
+\subsection{Gaps in the Literature}
+
+This review identifies two complementary gaps. First, the functional neuroimaging literature on psychological flexibility lacks any structural component. All four fMRI studies examined brain function, but none assessed whether psychological flexibility relates to gray matter volume or cortical thickness. Second, the structural neuroimaging literature on smoking in schizophrenia lacks psychological flexibility measurement. All eight sMRI studies characterized smoking status and brain structure, but none included the Acceptance and Action Questionnaire-II, Cognitive Fusion Questionnaire, or any related measure. These gaps are reciprocal: research on psychological flexibility has not incorporated structural imaging, while structural neuroimaging research has not incorporated psychological flexibility assessment.
+
+\subsection{Interpretation of Regional Overlap}
+
+The anterior cingulate cortex, insula, and prefrontal cortex serve functions that are theoretically relevant to both psychological flexibility and addictive behavior, though the overlap observed in this review should not be overinterpreted given the frequency with which these regions appear in neuroimaging research.
+
+The anterior cingulate cortex supports conflict monitoring, error detection, and cognitive control \citep{botvinick2004}. \citet{smallwood2016} and \citet{aytur2021} reported changes in anterior cingulate cortex function following ACT interventions, while \citet{jorgensen2015} and \citet{qiu2024} found reduced thickness in this region among smokers with schizophrenia.
+
+The insula is implicated in interoception, craving awareness, and emotional processing \citep{craig2009, naqvibechara2010}. \citet{naqvi2007} demonstrated that damage to the insula can lead to spontaneous smoking cessation. However, fMRI findings for the insula were inconsistent: \citet{smallwood2016} found decreased insula activation following ACT, while \citet{lee2023} found increased activation. Among smokers with schizophrenia, \citet{jorgensen2015} and \citet{qiu2024} reported thinner insular cortex.
+
+The prefrontal cortex supports executive function and value-based decision-making \citep{millercohen2001}. Reduced prefrontal gray matter in smokers with schizophrenia was reported by \citet{schneider2014} and \citet{yokoyama2018}, though \citet{tregellas2007} found the opposite pattern. \citet{lee2023} found strengthened prefrontal connectivity following ACT.
+
+\subsection{Implications for Future Research}
+
+The primary contribution of this review is identifying a gap: no study has examined the relationship between brain structure and psychological flexibility. Addressing this gap would require studies that simultaneously measure gray matter (via sMRI) and psychological flexibility (via validated instruments such as the AAQ-II) within the same participants.
+
+A study in individuals with schizophrenia, systematically characterized by smoking status, could determine whether psychological flexibility relates to brain structure in regions implicated in the sMRI literature. Such a study would move beyond cross-literature comparison to direct examination of brain-behavior relationships. Whether psychological flexibility represents a modifiable mechanism underlying smoking behavior in schizophrenia remains an empirical question that current literature cannot answer.
+
+\subsection{Limitations}
+
+Several limitations warrant consideration. The functional neuroimaging literature on psychological flexibility is sparse, comprising only four studies with sample sizes ranging from 9 to 42 participants. The populations studied varied considerably, including chronic pain, opioid addiction, obsessive-compulsive disorder, and healthy adults, limiting generalizability to schizophrenia. No fMRI study has examined psychological flexibility in schizophrenia or smoking populations. Consistent with scoping review methodology, formal quality assessment of included studies was not conducted. Our focus on gray matter was guided by the observation that the existing psychological flexibility fMRI literature has used standard BOLD methods optimized for gray matter detection; while emerging evidence suggests white matter BOLD signals exist, they require specialized analytical approaches not yet applied in psychological flexibility research. Consequently, white matter alterations associated with smoking in schizophrenia, which have been reported using diffusion tensor imaging, were not captured in this review.
+
+For the structural literature, our search supplemented studies already identified by a recent systematic review \citep{koster2025}, adding studies published after June 2023 to extend the evidence base. However, we adopted different exclusion criteria, focusing specifically on diagnosed schizophrenia and excluding clinical high-risk populations.
+
+\subsection{Conclusions}
+
+This scoping review mapped two previously unconnected neuroimaging literatures. The functional neuroimaging literature on psychological flexibility is sparse (four studies) and heterogeneous, with inconsistent findings across different populations and paradigms. The structural neuroimaging literature on smoking in schizophrenia (eight studies) shows gray matter reductions in the hippocampus, anterior cingulate cortex, and insula among smokers. Several regions appear in both literatures, though this overlap may reflect the general prominence of these regions in neuroimaging research rather than a specific relationship.
+
+The critical finding is an absence: no study has examined whether psychological flexibility relates to brain structure. This gap prevents any conclusions about whether the regional overlap observed across literatures reflects a meaningful relationship. Future studies combining structural MRI with psychological flexibility measures are needed to address this question directly.
+
+% ============================================
+% REFERENCES
+% ============================================
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\end{document}
