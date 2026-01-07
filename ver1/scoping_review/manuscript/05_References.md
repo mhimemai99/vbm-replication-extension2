@@ -4,7 +4,13 @@ Arksey, H., & O'Malley, L. (2005). Scoping studies: Towards a methodological fra
 
 Aytur, S. A., Ray, K. L., Meier, S. K., Campbell, J., Gendron, B., Waller, N., & Robin, D. A. (2021). Neural mechanisms of acceptance and commitment therapy for chronic pain: A network-based fMRI approach. *Frontiers in Human Neuroscience*, *15*, 587018. https://doi.org/10.3389/fnhum.2021.587018
 
+Botvinick, M. M., Cohen, J. D., & Carter, C. S. (2004). Conflict monitoring and anterior cingulate cortex: An update. *Trends in Cognitive Sciences*, *8*(12), 539–546. https://doi.org/10.1016/j.tics.2004.10.003
+
+Chang, C.-K., Hayes, R. D., Broadbent, M. T. M., Hotopf, M., Davies, E., Møller, H., & Stewart, R. (2022). The impact of cigarette smoking on life expectancy in schizophrenia, schizoaffective disorder and bipolar affective disorder: An electronic case register cohort study. *Schizophrenia Research*, *239*, 140–147. https://doi.org/10.1016/j.schres.2021.11.034
+
 Chong, Y. Y., Chien, W. T., Cheng, H. Y., Lamber, S., & Chow, K. M. (2025). The role of psychological flexibility and inflexibility in substance addiction, abuse, or misuse: A systematic review and meta-analysis. *International Journal of Mental Health and Addiction*. https://doi.org/10.1007/s11469-025-01468-4
+
+Craig, A. D. (2009). How do you feel — now? The anterior insula and human awareness. *Nature Reviews Neuroscience*, *10*(1), 59–70. https://doi.org/10.1038/nrn2555
 
 Cullen, K. R., Wallace, S., Magnotta, V. A., Bockholt, J., Ehrlich, S., Gollub, R. L., ... & Calhoun, V. D. (2012). Cigarette smoking and white matter microstructure in schizophrenia. *Psychiatry Research: Neuroimaging*, *201*(2), 152–158. https://doi.org/10.1016/j.pscychresns.2011.08.010
 
@@ -13,6 +19,10 @@ de Leon, J., & Diaz, F. J. (2005). A meta-analysis of worldwide studies demonstr
 Fan, L., Wang, L., Li, F., Liu, Y., Wang, Y., & Jiang, X. (2025). Efficacy of acceptance and commitment therapy for smoking cessation: A systematic review and meta-analysis. *Worldviews on Evidence-Based Nursing*. https://doi.org/10.1111/wvn.70086
 
 Farris, S. G., Zvolensky, M. J., Blalock, J. A., & Schmidt, N. B. (2014). Smoking-specific experiential avoidance cognition: Explanatory relevance to pre- and post-cessation nicotine withdrawal, craving, and negative affect. *Drug and Alcohol Dependence*, *138*, 78–84. https://doi.org/10.1016/j.drugalcdep.2014.02.012
+
+Grajauskas, L. A., Frizzell, T., Song, X., & D'Arcy, R. C. N. (2019). Characterization of the hemodynamic response function in white matter tracts for event-related fMRI. *Nature Communications*, *10*(1), 1140. https://doi.org/10.1038/s41467-019-09076-2
+
+Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment therapy: Model, processes and outcomes. *Behaviour Research and Therapy*, *44*(1), 1–25. https://doi.org/10.1016/j.brat.2005.06.006
 
 Jansen, J. E., Gleeson, J., Bendall, S., Rice, S., & Alvarez-Jimenez, M. (2021). Acceptance and commitment therapy for psychosis: A systematic review and meta-analysis. *Psychological Medicine*, *51*(16), 2701–2711. https://doi.org/10.1017/S0033291721003324
 
@@ -24,7 +34,11 @@ Lee, S. W., Kim, S., Lee, S., Seo, H. S., Cha, H., Chang, Y., & Lee, S. J. (2023
 
 Levin, M. E., MacLane, C., Daflos, S., Seeley, J., Hayes, S. C., Biglan, A., & Pistorello, J. (2024). The relationship between psychosis and psychological flexibility and other acceptance and commitment therapy processes: A systematic review and meta-analysis. *Journal of Contextual Behavioral Science*, *32*, 100737. https://doi.org/10.1016/j.jcbs.2024.100737
 
+Miller, E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal cortex function. *Annual Review of Neuroscience*, *24*, 167–202. https://doi.org/10.1146/annurev.neuro.24.1.167
+
 Musket, C. W., Kochunov, P., Rowland, L. M., & Hong, L. E. (2026). Hippocampal volume reductions in smokers with schizophrenia: A multi-site analysis. *Schizophrenia Research*, *267*, 45–52. https://doi.org/10.1016/j.schres.2025.12.008
+
+Naqvi, N. H., & Bechara, A. (2010). The insula and drug addiction: An interoceptive view of pleasure, urges, and decision-making. *Brain Structure and Function*, *214*(5–6), 435–450. https://doi.org/10.1007/s00429-010-0268-7
 
 Naqvi, N. H., Rudrauf, D., Damasio, H., & Bechara, A. (2007). Damage to the insula disrupts addiction to cigarette smoking. *Science*, *315*(5811), 531–534. https://doi.org/10.1126/science.1135926
 

@@ -14,11 +14,11 @@ This review identifies two complementary gaps. First, the functional neuroimagin
 
 The anterior cingulate cortex, insula, and prefrontal cortex serve functions that are theoretically relevant to both psychological flexibility and addictive behavior, though the overlap observed in this review should not be overinterpreted given the frequency with which these regions appear in neuroimaging research.
 
-The anterior cingulate cortex supports conflict monitoring, error detection, and cognitive control. Smallwood et al. (2016) and Aytur et al. (2021) reported changes in anterior cingulate cortex function following ACT interventions, while Jørgensen et al. (2015) and Qiu et al. (2024) found reduced thickness in this region among smokers with schizophrenia.
+The anterior cingulate cortex supports conflict monitoring, error detection, and cognitive control (Botvinick et al., 2004). Smallwood et al. (2016) and Aytur et al. (2021) reported changes in anterior cingulate cortex function following ACT interventions, while Jørgensen et al. (2015) and Qiu et al. (2024) found reduced thickness in this region among smokers with schizophrenia.
 
-The insula is implicated in interoception, craving awareness, and emotional processing. Naqvi et al. (2007) demonstrated that damage to the insula can lead to spontaneous smoking cessation. However, fMRI findings for the insula were inconsistent: Smallwood et al. (2016) found decreased insula activation following ACT, while Lee et al. (2023) found increased activation. Among smokers with schizophrenia, Jørgensen et al. (2015) and Qiu et al. (2024) reported thinner insular cortex.
+The insula is implicated in interoception, craving awareness, and emotional processing (Craig, 2009; Naqvi & Bechara, 2010). Naqvi et al. (2007) demonstrated that damage to the insula can lead to spontaneous smoking cessation. However, fMRI findings for the insula were inconsistent: Smallwood et al. (2016) found decreased insula activation following ACT, while Lee et al. (2023) found increased activation. Among smokers with schizophrenia, Jørgensen et al. (2015) and Qiu et al. (2024) reported thinner insular cortex.
 
-The prefrontal cortex supports executive function and value-based decision-making. Reduced prefrontal gray matter in smokers with schizophrenia was reported by Schneider et al. (2014) and Yokoyama et al. (2018), though Tregellas et al. (2007) found the opposite pattern. Lee et al. (2023) found strengthened prefrontal connectivity following ACT.
+The prefrontal cortex supports executive function and value-based decision-making (Miller & Cohen, 2001). Reduced prefrontal gray matter in smokers with schizophrenia was reported by Schneider et al. (2014) and Yokoyama et al. (2018), though Tregellas et al. (2007) found the opposite pattern. Lee et al. (2023) found strengthened prefrontal connectivity following ACT.
 
 ## Implications for Future Research
 
