@@ -116,6 +116,62 @@ For each included study, extract:
 |---------------|---------|------------|---|--------|--------------|
 | Smith (2020) | USA | Adults | 100 | Survey | Finding 1, 2 |
 
+## Table Quality Standards (Critical)
+
+Tables are the core deliverable of scoping reviews. Poor tables undermine the entire review. Follow these standards:
+
+### 1. Sample Size Specificity
+
+**Bad:** "N = 64" or "Multi-site"
+**Good:** "32 intervention, 32 control" or "Multi-site: 1,262 total (breakdown: 600 site A, 400 site B, 262 site C)"
+
+Always break down by relevant groups (treatment/control, smoker/non-smoker, patient/healthy).
+
+### 2. Direction Indicators (Required)
+
+Every quantitative finding MUST include direction:
+- Use ↑ (increased) and ↓ (decreased/reduced)
+- Apply consistently across ALL rows
+- If no direction applies, explain why (e.g., "interaction effect only")
+
+**Bad:** "Hippocampus" or "ACC, insula"
+**Good:** "Smaller hippocampus (↓ 2.2%)" or "Thinner ACC (↓), thinner insula (↓)"
+
+### 3. Valid Findings Only
+
+The "Findings" column must contain ACTUAL RESULTS, not:
+- Statistical categories ("Diagnosis × smoking interaction" is not a brain region)
+- Vague descriptions ("Progressive loss" - loss of what? where?)
+- Method descriptions ("Whole brain analysis")
+- Missing data ("—" without explanation)
+
+**Bad:** "Diagnosis × smoking interaction for subcortical"
+**Good:** "No main effect of smoking; diagnosis × smoking interaction for thalamus (↓ in patients who smoke) and pallidum (↑)"
+
+### 4. Consistency Across Rows
+
+- Same column structure for all rows
+- Same level of detail for all studies
+- Same abbreviation style throughout
+- If one study has direction indicators, ALL must have them
+
+### 5. Table Abbreviations
+
+Always include abbreviation legend below table:
+```
+*Abbreviations: [Abbrev1], full term; [Abbrev2], full term. Direction: ↑ increased, ↓ decreased.*
+```
+
+### 6. Self-Check Questions
+
+Before finalizing any table, verify:
+- [ ] Can a reader understand each cell without reading the paper?
+- [ ] Are sample sizes broken down by relevant groups?
+- [ ] Does every finding have a direction indicator?
+- [ ] Are all entries actual findings (not statistical categories)?
+- [ ] Is the level of detail consistent across rows?
+- [ ] Are abbreviations defined?
+
 ## Quality Appraisal
 
 Per JBI methodology, quality appraisal is **optional** for scoping reviews. If not conducted, state:

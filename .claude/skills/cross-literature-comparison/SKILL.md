@@ -104,11 +104,28 @@ For each overlap, consider:
 
 ### Table: Cross-Literature Comparison
 
-| Region | Lit A Studies | Lit B Studies | Notes |
-|--------|---------------|---------------|-------|
-| ACC | Smith; Jones | Lee; Kim | Common in neuroimaging |
-| Insula | Smith; Wang | Lee; Kim | Also common |
-| Hippocampus | - | Lee; Kim; Park | Only in Lit B |
+**Required columns:** Include DIRECTION for each literature, not just study names.
+
+| Element | Lit A Studies | Lit A Direction | Lit B Studies | Lit B Direction |
+|---------|---------------|-----------------|---------------|-----------------|
+| ACC | Smith; Jones | ↓ post-intervention | Lee; Kim | ↓ in group A |
+| Insula | Smith; Wang | Mixed (↓ and ↑) | Lee; Kim | ↓ in group A |
+| Hippocampus | — | Not examined | Lee; Kim; Park | ↓ in group A |
+
+**Notes:**
+- Always include direction columns to show what each literature actually found
+- Use "Mixed" when studies disagree
+- Use "Not examined" (not just "—") when a literature doesn't cover that element
+- Include year with author names for clarity: "Smith (2020); Jones (2021)"
+
+### Table Quality Checklist
+
+Before finalizing comparison tables:
+- [ ] Direction column included for EACH literature
+- [ ] Directions are consistent (↑/↓) not words like "increased"
+- [ ] "Mixed" explained in notes when used
+- [ ] Years included with citations
+- [ ] Base-rate caveat noted for commonly-reported elements
 
 ### Prose: Balanced Interpretation
 

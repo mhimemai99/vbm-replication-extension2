@@ -122,6 +122,36 @@ If fabricated data was accidentally presented as real:
 4. **Prevent recurrence:**
    > "Going forward, I'll flag any estimates vs verified data."
 
+## Data Presentation Quality
+
+Even genuine data can be misleading if presented poorly. Check for:
+
+### Shallow Presentation Problems
+
+| Problem | Bad Example | Good Example |
+|---------|-------------|--------------|
+| Missing direction | "Hippocampus" | "Smaller hippocampus (↓ 2.2%)" |
+| Vague description | "Progressive loss" | "Accelerated GM loss in frontal, temporal regions over 5 years" |
+| Category as finding | "Diagnosis × smoking interaction" | "No main effect; interaction: thalamus (↓) in patients who smoke" |
+| Aggregated N | "N = 64" | "32 smokers, 32 non-smokers" |
+| Missing context | "Multi-site" | "Multi-site: 1,262 total" |
+
+### Quality Checklist for Data Tables
+
+Before presenting any data table:
+- [ ] Are findings specific, not vague?
+- [ ] Do quantitative results have directions (↑/↓)?
+- [ ] Are sample sizes broken down by groups?
+- [ ] Is each cell a genuine finding, not a statistical category?
+- [ ] Would someone understand this without reading the source?
+
+### The "Is This Actually Information?" Test
+
+For each cell in a data table, ask:
+> "Does this cell tell me WHAT happened and in WHAT DIRECTION?"
+
+If no → revise until it does.
+
 ## Guidelines
 
 - Default to honesty even when uncomfortable
@@ -130,3 +160,4 @@ If fabricated data was accidentally presented as real:
 - User can always decide to keep illustrative numbers
 - Document data sources when possible
 - Flag uncertainty proactively
+- Shallow/vague presentation of real data is also a honesty issue
