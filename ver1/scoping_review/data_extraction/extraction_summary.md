@@ -49,9 +49,9 @@ This scoping review focuses on **within-diagnosis smoking comparisons** rather t
 |-------|---------|-----------|
 | Schneider 2014 | Smokers with SZ had LOWER hippocampal volume (~2.2%) | ↓ in smokers |
 | Qiu 2024 | Negative GMV correlation with tobacco use | ↓ with tobacco |
-| Musket 2026 | Focus on hippocampus in SZ+SUD | TBD |
+| Musket 2026 | Smaller hippocampal volume with dose-response (pack-years) | ↓ in smokers |
 
-**Summary**: Consistent reduction in hippocampal volume with smoking.
+**Summary**: Most consistent finding across studies. Dose-response relationship (Musket 2026) and longitudinal evidence (Van Haren 2010) support causal interpretation.
 
 ### Anterior Cingulate Cortex (ACC)
 
@@ -92,14 +92,14 @@ This scoping review focuses on **within-diagnosis smoking comparisons** rather t
 
 | Study | Brain Region | Direction | Effect Size |
 |-------|--------------|-----------|-------------|
-| Tregellas 2007 | Lateral PFC, STG | ↑ in smokers | Not reported |
-| Van Haren 2010 | Global GM (>25 CPD only) | ↓ in heavy smokers | Progressive loss |
-| Schneider 2014 | Hippocampus, DLPFC | ↓ in smokers | 2.2-2.8% reduction |
-| Jørgensen 2015 | Left rostral ACC, insula | ↓ in smokers | ~0.05mm thinner |
-| Yokoyama 2018 | Left prefrontal | ↓ in smokers | Additive effect |
-| Ringin 2022 | Multiple cortical | Mixed | Interaction-dependent |
-| Qiu 2024 | Insula, striatum, hippocampus | ↓ with tobacco | Multimodal |
-| Musket 2026 | Hippocampus | TBD | TBD |
+| Tregellas 2007 | Medial frontal, STG | ↑ in smokers | Not reported |
+| Van Haren 2010 | Global GM (heavy smokers) | ↓ progressive | 5-year follow-up |
+| Schneider 2014 | Hippocampus, DLPFC, amygdala | ↓ in smokers | 2.2% hippocampal reduction |
+| Jørgensen 2015 | ACC, insula, OFC | ↓ in smokers | Thinner cortex |
+| Yokoyama 2018 | Left middle frontal, precentral | ↓ in smokers | VBM reduction |
+| Ringin 2022 | Thalamus, pallidum | Interaction | No main effect |
+| Qiu 2024 | Hippocampus, ACC, insula, temporal | ↓ with tobacco | Multimodal |
+| Musket 2026 | Hippocampus | ↓ in smokers | Dose-response with pack-years |
 
 ---
 
@@ -162,13 +162,15 @@ This scoping review focuses on **within-diagnosis smoking comparisons** rather t
 
 ## Convergent Brain Regions (for Psychological Flexibility Hypothesis)
 
-Regions showing consistent smoking-related effects that OVERLAP with psychological flexibility fMRI findings:
+Regions appearing in BOTH literatures (see manuscript Table 3 for full comparison):
 
-| Region | sMRI Smoking Effect | Psychological Flexibility (fMRI) |
-|--------|---------------------|----------------------------------|
-| **Prefrontal (DLPFC)** | ↓ in most studies | Altered frontoparietal connectivity |
-| **ACC** | ↓ in smokers | ACT intervention target (Smallwood 2016) |
-| **Insula** | ↓ in smokers | ACT intervention target (Smallwood 2016) |
-| **Putamen/striatum** | ↓ (Qiu 2024) | Lower flexibility → altered connectivity |
+| Region | sMRI: Smoking in SCZ | Direction | fMRI: PF/ACT | Direction |
+|--------|---------------------|-----------|--------------|-----------|
+| **ACC** | Jørgensen (2015); Qiu (2024) | ↓ in smokers | Smallwood (2016); Aytur (2021) | ↓ post-ACT |
+| **Insula** | Jørgensen (2015); Qiu (2024) | ↓ in smokers | Smallwood (2016); Lee (2023) | Mixed |
+| **Prefrontal** | Schneider (2014); Yokoyama (2018) | ↓ in smokers | Smallwood (2016); Lee (2023) | ↓ post-ACT |
+| **Hippocampus** | Schneider (2014); Qiu (2024); Musket (2026) | ↓ in smokers | — | Not examined |
 
-This regional overlap supports the theoretical justification for examining psychological flexibility in relation to brain structure.
+**Note**: Hippocampus is the most robust sMRI finding but has NOT been examined in the psychological flexibility fMRI literature. This represents a priority target for future research.
+
+**Caution**: Regional overlap must be interpreted cautiously—these regions are commonly reported across neuroimaging studies generally (base-rate problem).
