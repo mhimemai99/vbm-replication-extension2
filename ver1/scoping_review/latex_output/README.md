@@ -6,6 +6,43 @@ This folder contains the LaTeX version of the scoping review manuscript.
 
 - `manuscript.tex` - Main LaTeX document
 - `references.bib` - BibTeX reference file
+- `manuscript_for_word.md` - Markdown version optimized for Word conversion
+
+---
+
+## Converting to Word (.docx)
+
+### Option 1: Using the Markdown File (Easiest)
+
+1. Go to [pandoc.org/try](https://pandoc.org/try/) or [cloudconvert.com](https://cloudconvert.com/md-to-docx)
+2. Upload `manuscript_for_word.md`
+3. Convert to .docx
+4. Download
+
+### Option 2: Direct in Word
+
+1. Open Word
+2. File → Open → Select `manuscript_for_word.md`
+3. Word will convert it automatically
+4. Save as .docx
+
+### Option 3: Using Pandoc (if installed)
+
+```bash
+# From markdown (simpler, recommended)
+pandoc manuscript_for_word.md -o manuscript.docx
+
+# From LaTeX (more complex)
+pandoc manuscript.tex --bibliography=references.bib --citeproc -o manuscript.docx
+```
+
+### Option 4: Google Docs
+
+1. Upload `manuscript_for_word.md` to Google Drive
+2. Open with Google Docs
+3. File → Download → Microsoft Word (.docx)
+
+---
 
 ## How to Compile
 
